@@ -1,6 +1,6 @@
 ---
 title: Before 1900
-description: Graphite chemistry and Brodie’s 1859 graphite oxide work.
+description: Graphite as an old industrial solid; Brodie’s 1859 oxidation as the chemical runway to graphene oxide.
 date: 1859-01-01
 tags:
   - timeline
@@ -9,22 +9,35 @@ tags:
 
 **Evidence:** Well-supported historical consensus
 
-## Context
+## What “before graphene” actually contains
 
-Graphite has been known and used for centuries (writing, lubrication, refractories). The layered nature of carbon in graphite becomes a chemical object of study in the 19th century.
+People used **graphite** for centuries — marks on surfaces, lubrication, crucibles, later electrodes and moderator blocks. That is three-dimensional stacked carbon. The modern graphene story is not “humanity discovered carbon sheets in 2004.” It is: when did a *single* honeycomb sheet become an object you could isolate, identify, and measure as a 2D electronic system?
+
+The 19th century answers a different question: when did chemists start taking graphite apart *between the layers*?
 
 ## 1859 — Benjamin Collins Brodie
 
-Brodie treats graphite with strong oxidizers and describes a highly lamellar product (often discussed today as an early window onto **graphite oxide** chemistry). This line of work matters because later monolayer observations (Boehm and others) came from **reduced graphite oxide** routes, not only from bulk graphite cleavage.
+Brodie treats graphite with strong oxidizers (the lineage later called Brodie’s method) and describes a highly lamellar, oxygen-rich product. Later generations read this as early **graphite oxide** chemistry — sheets forced apart by oxygen functional groups, hydrophilic, swellable, chemically noisy compared with pristine graphene.
 
-## Why it matters for “graphene history”
+Why a Monday history post should care:
 
-The *idea* of stacking carbon sheets is old. The *isolation and measurement of a free-standing single atomic sheet as a 2D crystal electronic system* is a 21st-century experimental achievement (2004), built on a long chemical and theoretical runway.
+- A large fraction of today’s powders marketed as “graphene” are closer to **reduced graphene oxide (rGO)** or nanoplatelets than to a Manchester mechanically cleaved monolayer.
+- Boehm’s 1960s monolayer observations ([[timeline/1962]]) come from the *oxide* route, not from Scotch tape.
+- Confusing GO / rGO / CVD film / monolayer flake is how both hype and fringe claims get sloppy. The chemical family tree starts here.
+
+Brodie did not isolate graphene. He showed graphite could be chemically unzipped into a lamellar oxide.
+
+## Other 19th-century furniture
+
+- Graphite’s layered crystal nature is increasingly a laboratory fact, not only a miner’s observation.
+- Organic chemistry is learning what “aromatic sheet” means; that vocabulary will later name **graphene** (graphite + *-ene*).
+- Industry already consumes graphite. That matters for any claim that graphene “invented” carbon as a commodity.
 
 ## See also
 
-- [[timeline/1947|1947 — Wallace]]
-- [[timeline/1962|1962 — Boehm]]
-- [[timeline/2004|2004 — isolation]]
+- [[timeline/1900-1946]] — X-ray structure of graphite
+- [[timeline/1947]] — Wallace treats one layer as a theoretical object
+- [[timeline/1962]] — Boehm monolayers from reduced oxide
+- [[timeline/2004]] — isolation and transport on SiO₂
 
 Source: [timeline/before-1900.md](https://github.com/GrapheneFacts/graphene-archive/blob/main/timeline/before-1900.md)

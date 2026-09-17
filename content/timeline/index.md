@@ -7,6 +7,14 @@ tags:
 
 History from early chemistry and theory through isolation, the Nobel Prize, industry scale-up, and the living weekly archive.
 
+Longer Monday-ready pages (beyond a one-line spine):
+
+- [[timeline/before-1900|Before 1900 — Brodie and graphite oxide]]
+- [[timeline/1947|1947 — Wallace]]
+- [[timeline/1962|1962 — Boehm]]
+- [[timeline/2004|2004 — Manchester isolation]]
+- [[timeline/2010|2010 — Nobel]]
+
 | Year | Milestone |
 |------|-----------|
 | 1859 | Brodie — graphite oxide chemistry |
@@ -18,7 +26,7 @@ History from early chemistry and theory through isolation, the Nobel Prize, indu
 | 2013 | EU Graphene Flagship launches |
 | 2026 | [[weekly/2026-W38|Weekly compiles]] |
 
-## Pages
+## All pages
 
 - [[timeline/before-1900|Before 1900]]
 - [[timeline/1900-1946|1900–1946]]
