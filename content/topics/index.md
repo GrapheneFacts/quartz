@@ -13,5 +13,7 @@ Folder is for browsing. The [[guides/evidence-labels|evidence label]] is for con
 - [[topics/health|Health]]
 - [[topics/policy|Policy]]
 - [[topics/fringe|Fringe]] — labeled, not endorsed
+- [[topics/unverified|Unverified]] — weak source, not automatically fringe
+- [[logs/conspiracies|Conspiracies tab]] · [[logs/unsourced|Unsourced subsection]]
 - [[recurrence/log|Recurrence log]]
-- [[logs/theories|Theories]] · [[logs/companies|Companies]] · [[logs/conspiracies|Conspiracies]]
+- [[logs/theories|Theories]] · [[logs/companies|Companies]]

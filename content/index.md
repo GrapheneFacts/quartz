@@ -18,7 +18,7 @@ Nothing here is medical, investment, or legal advice. [[guides/evidence-labels|E
 ## History
 
 - [[timeline/pre-chemistry|Pre-chemistry]] → [[timeline/index|full timeline]]
-- [[logs/theories|Theories]] · [[logs/companies|Companies]] · [[logs/conspiracies|Conspiracies]]
+- [[logs/theories|Theories]] · [[logs/companies|Companies]] · [[logs/conspiracies|Conspiracies]] (includes [[logs/unsourced|Unsourced]])
 
 ## Living archive
 
