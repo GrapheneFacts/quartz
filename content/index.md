@@ -1,21 +1,27 @@
 ---
 title: GrapheneFacts
-description: Readable write-ups from the public GrapheneFacts research archive.
+description: Readable archive of graphene research notes, timeline, and weekly compiles.
 ---
 
-This site is the **reading layer** for GrapheneFacts.
+Short posts live on X. Full context lives here. The raw files stay in the [public GitHub archive](https://github.com/GrapheneFacts/graphene-archive).
 
-The public file archive stays on GitHub. These pages are arranged so people can browse, search, and follow links without reading a raw repo.
+Nothing here is medical, investment, or legal advice. Every item carries an [[guides/evidence-labels|evidence label]].
 
 ## Start here
 
-- [[posts/welcome|Welcome]] — how this site relates to the archive and to X
-- [[posts/how-publishing-works|How publishing works]] — archive vs site vs X
-- [[topics/graphene|Graphene]] — topic hub
+- [[weekly/2026-W38|Latest weekly — 2026-W38]]
+- [[timeline/index|Timeline]]
+- [[topics/index|Topics]]
+- [[guides/evidence-labels|Evidence labels]]
 - [[about|About]]
 
-## Archive
+## Browse by topic
 
-Raw files (the archival copy):
-
-[github.com/GrapheneFacts/graphene-archive](https://github.com/GrapheneFacts/graphene-archive)
+- [[topics/research|Research]]
+- [[topics/engineering|Engineering]]
+- [[topics/industry|Industry]]
+- [[topics/finance|Finance]]
+- [[topics/health|Health]]
+- [[topics/policy|Policy]]
+- [[topics/fringe|Fringe]] (labeled, not endorsed)
+- [[recurrence/log|Recurrence log]]
