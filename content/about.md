@@ -10,6 +10,12 @@ GrapheneFacts is building a public knowledge base on graphene-family materials: 
 
 It is intended to remain useful if the X account goes quiet.
 
+## Contact
+
+[contact@graphenefacts.org](mailto:contact@graphenefacts.org)
+
+Corrections, sources, and questions. Not medical, investment, or legal advice.
+
 ## Layers
 
 - **Reference** — [[reference/index|evergreen pages]]
