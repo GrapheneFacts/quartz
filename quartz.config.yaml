@@ -203,6 +203,7 @@ plugins:
     enabled: true
     options:
       links:
+        Contact: mailto:contact@graphenefacts.org
         Public archive: https://github.com/GrapheneFacts/graphene-archive
         X: https://x.com/GrapheneFacts
     layout:
