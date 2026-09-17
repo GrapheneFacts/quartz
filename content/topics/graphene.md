@@ -1,16 +1,14 @@
 ---
 title: Graphene
-description: Hub page for graphene write-ups on this site.
-date: 2026-09-17
+description: Topic hub — start at the timeline and the glossary, not a slogan.
 tags:
   - graphene
 ---
 
-Use this page as a table of contents for graphene notes.
+One word, several materials. Use the [[guides/glossary|glossary]] for GO / rGO / FLG / CVD film / nanoplatelet.
 
-## On this site
-
-- [[posts/welcome|Welcome]]
-- [[posts/how-publishing-works|How publishing works]]
-
-More topic pages and essays will be added here as they are published.
+- [[timeline/index|Timeline]] (pre-chemistry → 2026)
+- [[posts/holey-graphene-molecular-stencil|Long read — molecular stencil]]
+- [[weekly/2026-W38|Latest weekly]]
+- [[topics/index|All topic folders]]
+- [[logs/theories]] · [[logs/companies]] · [[logs/conspiracies]]
