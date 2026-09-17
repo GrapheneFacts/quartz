@@ -1,29 +1,28 @@
 ---
 title: GrapheneFacts
-description: Readable archive of graphene research notes, timeline, and weekly compiles.
+description: A durable public knowledge base on graphene-family materials — forms, history, papers, industry, and labeled fringe.
 ---
 
-Short posts live on X. Full context lives here. Raw files stay in the [public GitHub archive](https://github.com/GrapheneFacts/graphene-archive).
+Short posts live on X. This site is meant to remain readable after the feed moves on.
 
-Nothing here is medical, investment, or legal advice. Every item carries an [[guides/evidence-labels|evidence label]].
+Nothing here is medical, investment, or legal advice. [[guides/evidence-labels|Evidence labels]] on claims. Folder is not a truth claim.
 
-## Start here
+## Learn the material
+
+- [[reference/index|Reference desk]]
+- [[reference/forms|Forms of the graphene family]]
+- [[reference/properties|Properties — ideal vs real]]
+- [[reference/key-papers|Key papers]]
+- [[guides/glossary|Glossary]] · [[guides/site-index|Index]]
+
+## History
+
+- [[timeline/pre-chemistry|Pre-chemistry]] → [[timeline/index|full timeline]]
+- [[logs/theories|Theories]] · [[logs/companies|Companies]] · [[logs/conspiracies|Conspiracies]]
+
+## Living archive
 
 - [[posts/holey-graphene-molecular-stencil|Enthusiast brief — holey graphene stencil]]
-- [[weekly/2026-W38|Latest weekly — 2026-W38]]
-- [[timeline/pre-chemistry|Timeline from pre-chemistry]]
-- [[timeline/index|Full timeline]]
-- [[logs/theories|Theories log]] · [[logs/companies|Companies log]] · [[logs/conspiracies|Conspiracy log]]
-- [[guides/glossary|Glossary]] · [[guides/site-index|Index]]
-- [[about|About]]
-
-## Browse by topic
-
-- [[topics/research|Research]]
-- [[topics/engineering|Engineering]]
-- [[topics/industry|Industry]]
-- [[topics/finance|Finance]]
-- [[topics/health|Health]]
-- [[topics/policy|Policy]]
-- [[topics/fringe|Fringe]] (labeled, not endorsed)
-- [[recurrence/log|Recurrence log]]
+- [[weekly/2026-W38|Weekly 2026-W38]]
+- [[topics/index|Topics]]
+- [File archive on GitHub](https://github.com/GrapheneFacts/graphene-archive)

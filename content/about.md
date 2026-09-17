@@ -1,20 +1,30 @@
 ---
 title: About
-description: What GrapheneFacts publishes and how this site is built.
+description: What this site is for and how it is supposed to last.
 date: 2026-09-17
 tags:
   - about
 ---
 
-GrapheneFacts publishes notes on graphene science, applications, companies, and (clearly labeled) fringe claims.
+GrapheneFacts is building a public knowledge base on graphene-family materials: history, forms, papers, plants, standards, occupational data, and (labeled) fringe narratives.
 
-## Two layers
+It is intended to remain useful if the X account goes quiet.
 
-- **This site** — readable pages generated from Markdown in [GrapheneFacts/quartz](https://github.com/GrapheneFacts/quartz).
-- **Archive** — raw files and history in [GrapheneFacts/graphene-archive](https://github.com/GrapheneFacts/graphene-archive).
+## Layers
 
-Find words in the [[guides/glossary|glossary]]. Find pages in the [[guides/site-index|index]].
+- **Reference** — [[reference/index|evergreen pages]]
+- **Timeline** — [[timeline/index]]
+- **Living notes** — weeklies and topic files
+- **File archive** — [GrapheneFacts/graphene-archive](https://github.com/GrapheneFacts/graphene-archive)
+- **Engine** — [GrapheneFacts/quartz](https://github.com/GrapheneFacts/quartz) (`content/` on `v5`)
 
-Private compile work stays private. X is distribution. The write-up is here.
+Private compile work stays private.
 
-See [[guides/evidence-labels]] and [[guides/posting-calendar]].
+## Rules
+
+- Evidence labels. [[guides/evidence-labels]]
+- Niche is in scope. Invented citations are not.
+- Folder is browsing. Label is confidence.
+- No medical, investment, or legal advice.
+
+[[guides/glossary]] · [[guides/site-index]]
