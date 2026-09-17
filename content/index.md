@@ -3,9 +3,11 @@ title: GrapheneFacts
 description: A durable public knowledge base on graphene-family materials — forms, history, papers, industry, and labeled fringe.
 ---
 
-Short posts live on X. This site is meant to remain readable after the feed moves on.
+Short posts live on [X @GrapheneFacts](https://x.com/GrapheneFacts). This site is meant to remain readable after the feed moves on.
 
 Nothing here is medical, investment, or legal advice. [[guides/evidence-labels|Evidence labels]] on claims. Folder is not a truth claim.
+
+Contact: [contact@graphenefacts.org](mailto:contact@graphenefacts.org)
 
 ## Learn the material
 

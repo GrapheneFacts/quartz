@@ -12,7 +12,9 @@ It is intended to remain useful if the X account goes quiet.
 
 ## Contact
 
-[contact@graphenefacts.org](mailto:contact@graphenefacts.org)
+- Email: [contact@graphenefacts.org](mailto:contact@graphenefacts.org)
+- X: [@GrapheneFacts](https://x.com/GrapheneFacts)
+- Site: [graphenefacts.org](https://graphenefacts.org)
 
 Corrections, sources, and questions. Not medical, investment, or legal advice.
 
