@@ -13,8 +13,8 @@ GrapheneFacts publishes notes on graphene science, applications, companies, and 
 - **This site** — readable pages generated from Markdown in [GrapheneFacts/quartz](https://github.com/GrapheneFacts/quartz).
 - **Archive** — raw files and history in [GrapheneFacts/graphene-archive](https://github.com/GrapheneFacts/graphene-archive).
 
-Private compile work stays private.
+Find words in the [[guides/glossary|glossary]]. Find pages in the [[guides/site-index|index]].
 
-X is distribution. The write-up is here.
+Private compile work stays private. X is distribution. The write-up is here.
 
 See [[guides/evidence-labels]] and [[guides/posting-calendar]].

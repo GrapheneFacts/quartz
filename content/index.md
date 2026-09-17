@@ -13,6 +13,8 @@ Nothing here is medical, investment, or legal advice. Every item carries an [[gu
 - [[weekly/2026-W38|Latest weekly — 2026-W38]]
 - [[timeline/index|Timeline]]
 - [[topics/index|Topics]]
+- [[guides/glossary|Glossary]]
+- [[guides/site-index|Index]]
 - [[guides/evidence-labels|Evidence labels]]
 - [[about|About]]
 
