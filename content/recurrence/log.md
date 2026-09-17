@@ -7,6 +7,7 @@ tags:
 
 | First seen | Last seen | Times noted | Short title | Notes |
 |------------|-----------|-------------|-------------|-------|
+| 2015–2016 | 2026-09-15 | 2+ public cycles | Holey graphene molecular stencil (Weiss / UCLA) | Real *ACS Nano* paper (2015). Sep 2026 UCLA Health page is recirculation. Long read: [[posts/holey-graphene-molecular-stencil]] |
 | 2021 (era) | 2026-09-16 | many | GO in COVID vaccines / 5G | See [[topics/fringe/2026-09-16-go-vaccine-5g-claims]] |
 | 2026-05/06 | 2026-09 (W38) | 2+ | NIOSH exposure banding | See [[topics/policy/2026-09-16-niosh-graphene-exposure]] |
 | 2026-06 | 2026-W38 | 2 | HydroGraph Fractal Graphene Paste | Earlier launch; still in roundups |

@@ -3,12 +3,13 @@ title: GrapheneFacts
 description: Readable archive of graphene research notes, timeline, and weekly compiles.
 ---
 
-Short posts live on X. Full context lives here. The raw files stay in the [public GitHub archive](https://github.com/GrapheneFacts/graphene-archive).
+Short posts live on X. Full context lives here. Raw files stay in the [public GitHub archive](https://github.com/GrapheneFacts/graphene-archive).
 
 Nothing here is medical, investment, or legal advice. Every item carries an [[guides/evidence-labels|evidence label]].
 
 ## Start here
 
+- [[posts/holey-graphene-molecular-stencil|Enthusiast brief — holey graphene stencil]]
 - [[weekly/2026-W38|Latest weekly — 2026-W38]]
 - [[timeline/index|Timeline]]
 - [[topics/index|Topics]]
