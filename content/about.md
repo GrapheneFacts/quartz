@@ -10,9 +10,11 @@ GrapheneFacts publishes notes on graphene science, applications, companies, and 
 
 ## Two layers
 
-- **Archive** — [GrapheneFacts/graphene-archive](https://github.com/GrapheneFacts/graphene-archive). Source files and history.
-- **This site** — Quartz pages generated from Markdown in the `content/` folder of [GrapheneFacts/quartz](https://github.com/GrapheneFacts/quartz).
+- **This site** — readable pages generated from Markdown in [GrapheneFacts/quartz](https://github.com/GrapheneFacts/quartz).
+- **Archive** — raw files and history in [GrapheneFacts/graphene-archive](https://github.com/GrapheneFacts/graphene-archive).
 
-X is distribution, not the archive. When a page is live, posts can link here.
+Private compile work stays private.
 
-Private compile work stays private and is not published on this site.
+X is distribution. The write-up is here.
+
+See [[guides/evidence-labels]] and [[guides/posting-calendar]].
