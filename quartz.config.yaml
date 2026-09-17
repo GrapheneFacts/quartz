@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: graphenefacts.github.io/quartz
+  baseUrl: graphenefacts.org
   ignorePatterns:
     - private
     - templates
