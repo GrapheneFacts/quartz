@@ -20,6 +20,7 @@ Companion to the [[guides/glossary|glossary]]. Raw files: [graphene-archive](htt
 ## Timeline
 
 - [[timeline/index|Timeline hub]]
+- [[timeline/pre-chemistry|Pre-chemistry]]
 - [[timeline/before-1900|Before 1900]]
 - [[timeline/1900-1946|1900–1946]]
 - [[timeline/1947|1947 — Wallace]]
@@ -34,6 +35,12 @@ Companion to the [[guides/glossary|glossary]]. Raw files: [graphene-archive](htt
 - [[timeline/2014-2019|2014–2019]]
 - [[timeline/2020-2025|2020–2025]]
 - [[timeline/2026|2026]]
+
+## Separate logs
+
+- [[logs/theories|Theories and ideas]]
+- [[logs/companies|Companies and programs]]
+- [[logs/conspiracies|Conspiracy and fringe narratives]]
 
 ## Topics — hubs
 
