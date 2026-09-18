@@ -1,30 +1,23 @@
 ---
 title: GrapheneFacts
-description: A durable public knowledge base on graphene-family materials — forms, history, papers, industry, and labeled fringe.
+description: Readable archive of graphene-family materials. Start with one of the six doors.
 ---
 
-Short posts live on [X @GrapheneFacts](https://x.com/GrapheneFacts). This site is meant to remain readable after the feed moves on.
+Short posts: [@GrapheneFacts](https://x.com/GrapheneFacts). Files: [GitHub archive](https://github.com/GrapheneFacts/graphene-archive). Mail: [contact@graphenefacts.org](mailto:contact@graphenefacts.org).
 
-Nothing here is medical, investment, or legal advice. [[guides/evidence-labels|Evidence labels]] on claims. Folder is not a truth claim.
+Not medical, investment, or legal advice. [[guides/evidence-labels|Evidence labels]] on claims.
 
-Contact: [contact@graphenefacts.org](mailto:contact@graphenefacts.org)
+## Six doors
 
-## Learn the material
+1. **What it is** — [[reference/index|Reference]] · [[reference/forms|Forms]] · [[guides/glossary|Glossary]]
+2. **When** — [[timeline/index|Timeline]] (pre-chemistry → 2026)
+3. **Who makes it** — [[topics/manufacturing/directory|Manufacturing directory]]
+4. **Money** — [[topics/finance|Finance]] · [[topics/finance/history|History of listings and budgets]]
+5. **Bodies and exposure** — [[topics/health|Health]] · [[topics/health/biomedical-catalogue|Biomedical catalogue]]
+6. **This week** — [[weekly/2026-W38|2026-W38]] · [[posts/holey-graphene-molecular-stencil|Long read]]
 
-- [[reference/index|Reference desk]]
-- [[reference/forms|Forms of the graphene family]]
-- [[reference/properties|Properties — ideal vs real]]
-- [[reference/key-papers|Key papers]]
-- [[guides/glossary|Glossary]] · [[guides/site-index|Index]]
+Lost? [[guides/map|Directory map]] · every page: [[guides/site-index|Index]]
 
-## History
+## Logs (meta)
 
-- [[timeline/pre-chemistry|Pre-chemistry]] → [[timeline/index|full timeline]]
-- [[logs/theories|Theories]] · [[logs/companies|Companies]] · [[logs/conspiracies|Conspiracies]] (includes [[logs/unsourced|Unsourced]])
-
-## Living archive
-
-- [[posts/holey-graphene-molecular-stencil|Enthusiast brief — holey graphene stencil]]
-- [[weekly/2026-W38|Weekly 2026-W38]]
-- [[topics/index|Topics]]
-- [File archive on GitHub](https://github.com/GrapheneFacts/graphene-archive)
+[[logs/theories|Theories]] · [[logs/companies|Companies]] · [[logs/conspiracies|Fringe narratives]] · [[logs/unsourced|Unsourced]]
