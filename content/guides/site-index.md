@@ -41,11 +41,18 @@ Companion to the [[guides/glossary|glossary]].
 
 ## Logs
 
-- [[logs/theories|Theories]] · [[logs/companies|Companies]] · [[logs/conspiracies|Conspiracies]] · [[recurrence/log|Recurrence]] · [[fringe/log|Fringe log]]
+- [[logs/theories|Theories]] · [[logs/companies|Companies]] · [[logs/conspiracies|Conspiracies]] · [[logs/unsourced|Unsourced]] · [[recurrence/log|Recurrence]] · [[fringe/log|Fringe log]]
 
 ## Topics
 
 - [[topics/graphene|Graphene hub]] · [[topics/research|Research]] · [[topics/engineering|Engineering]] · [[topics/industry|Industry]] · [[topics/finance|Finance]] · [[topics/health|Health]] · [[topics/policy|Policy]] · [[topics/fringe|Fringe]]
+
+## Finance pages
+
+- [[topics/finance/how-we-log-figures|How we log figures]]
+- [[topics/finance/listings|Public listings]]
+- [[topics/finance/public-money|Public programmes]]
+- [[topics/finance/2026-09-15-conovate-doe-award|COnovate DOE]]
 
 ## Dated notes
 
@@ -54,11 +61,10 @@ Companion to the [[guides/glossary|glossary]].
 - [[topics/engineering/2026-09-15-ucla-graphene-stencil|UCLA stencil short]]
 - [[topics/industry/2026-09-09-gmg-battery-cycling|GMG cycling]]
 - [[topics/industry/2026-09-10-first-graphene-pacific-urethanes|First Graphene order]]
-- [[topics/finance/2026-09-15-conovate-doe-award|COnovate DOE]]
 - [[topics/policy/2026-09-16-niosh-graphene-exposure|NIOSH]]
 - [[topics/health/2026-09-16-niosh-exposure-context|NIOSH health]]
 - [[topics/fringe/2026-09-16-go-vaccine-5g-claims|GO / 5G]]
 
 ## Guides
 
-- [[guides/glossary|Glossary]] · [[guides/evidence-labels|Labels]] · [[guides/posting-calendar|Calendar]] · [[about|About]]
+- [[guides/glossary|Glossary]] · [[guides/evidence-labels|Labels]] · [[guides/posting-calendar|Calendar]] · [[about|About]] · [[contact|Contact]]
