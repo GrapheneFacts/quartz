@@ -2,8 +2,8 @@
 configuration:
   pageTitle: GrapheneFacts
   pageTitleSuffix: ""
-  enableSPA: true
-  enablePopovers: true
+  enableSPA: false
+  enablePopovers: false
   analytics:
     provider: plausible
   locale: en-US
@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Source Serif 4
-      body: Source Sans 3
+      header: Source Serif Pro
+      body: Source Sans Pro
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -138,7 +138,7 @@ plugins:
       priority: 50
       display: desktop-only
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -184,7 +184,7 @@ plugins:
       priority: 30
       group: toolbar
   - source: "@quartz-community/reader-mode"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35
