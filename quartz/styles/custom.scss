@@ -26,7 +26,25 @@ article ol > li {
   margin: 0.35rem 0;
 }
 
-.properties,
-[class*="properties"] {
-  font-size: 0.85rem;
+@media (max-width: 800px) {
+  article {
+    max-width: 100%;
+    padding-inline: 0.25rem;
+  }
+
+  article h1 {
+    font-size: 1.65rem;
+    line-height: 1.2;
+  }
+
+  article ol,
+  article ul {
+    padding-left: 1.1rem;
+  }
+}
+
+@media (min-width: 1100px) {
+  article {
+    max-width: 44rem;
+  }
 }
