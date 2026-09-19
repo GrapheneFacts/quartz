@@ -1,3 +1,32 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+page-title,
+.page-title {
+  letter-spacing: -0.03em;
+}
+
+article {
+  max-width: 42rem;
+}
+
+article h1,
+article h2 {
+  letter-spacing: -0.02em;
+}
+
+article a {
+  text-underline-offset: 0.18em;
+}
+
+article ol {
+  padding-left: 1.25rem;
+}
+
+article ol > li {
+  margin: 0.35rem 0;
+}
+
+.properties,
+[class*="properties"] {
+  font-size: 0.85rem;
+}
