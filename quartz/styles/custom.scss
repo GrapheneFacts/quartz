@@ -2,20 +2,11 @@
 
 page-title,
 .page-title {
-  letter-spacing: -0.03em;
+  letter-spacing: -0.02em;
 }
 
 article {
   max-width: 42rem;
-}
-
-article h1,
-article h2 {
-  letter-spacing: -0.02em;
-}
-
-article a {
-  text-underline-offset: 0.18em;
 }
 
 article ol {
@@ -29,27 +20,16 @@ article ol > li {
 @media (max-width: 800px) {
   article {
     max-width: 100%;
-    padding-inline: 0.25rem;
   }
 
   article h1 {
     font-size: 1.65rem;
-    line-height: 1.2;
-  }
-
-  article ol,
-  article ul {
-    padding-left: 1.1rem;
+    line-height: 1.25;
   }
 }
 
 @media (min-width: 1100px) {
   article {
     max-width: 46rem;
-  }
-
-  .sidebar.left,
-  .sidebar.right {
-    font-size: 0.9rem;
   }
 }
