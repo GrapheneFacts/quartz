@@ -1,8 +1,6 @@
 ---
 title: Look up
 description: Define a word, find a page, or see what was cited.
-cssclasses:
-  - hub
 ---
 
 <div class="start-list">

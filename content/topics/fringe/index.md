@@ -1,8 +1,6 @@
 ---
 title: Fringe
 description: Circulating plots and slogans, filed so they do not sit on Science or Medical.
-cssclasses:
-  - hub
 ---
 
 <div class="start-list">

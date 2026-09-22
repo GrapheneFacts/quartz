@@ -1,8 +1,6 @@
 ---
 title: Graphene
 description: The word is several materials.
-cssclasses:
-  - hub
 ---
 
 <div class="start-list">

@@ -1,8 +1,6 @@
 ---
 title: Health
 description: Form, dose, and route. Occupational numbers and small human studies.
-cssclasses:
-  - hub
 ---
 
 <div class="start-list">

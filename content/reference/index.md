@@ -1,8 +1,6 @@
 ---
 title: Reference
 description: What the words mean, and what has been measured.
-cssclasses:
-  - hub
 ---
 
 <div class="start-list">

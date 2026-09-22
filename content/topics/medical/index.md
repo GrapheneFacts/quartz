@@ -1,8 +1,6 @@
 ---
 title: Medical
 description: Health, biology, and devices. Not a treatment guide.
-cssclasses:
-  - hub
 ---
 
 <div class="start-list">

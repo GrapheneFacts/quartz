@@ -1,8 +1,6 @@
 ---
 title: Manufacturing
 description: Who makes it, and what leaves a plant.
-cssclasses:
-  - hub
 ---
 
 <div class="start-list">

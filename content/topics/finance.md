@@ -1,8 +1,6 @@
 ---
 title: Companies
 description: Tickers and raises this archive files. Not a price list.
-cssclasses:
-  - hub
 ---
 
 <div class="start-list">
