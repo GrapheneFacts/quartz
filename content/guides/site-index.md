@@ -5,7 +5,7 @@ tags:
   - guide
 ---
 
-How to walk this site: six doors on [[index|home]]. This page is the *list*. To choose a folder, use [[guides/map]]. Words: [[guides/glossary]].
+How to walk this site: six doors on [[index|home]]. Official terms: [[notice|Notice]]. Words: [[guides/glossary]]. Choose a folder: [[guides/map]].
 
 ## Six doors
 
@@ -27,7 +27,7 @@ How to walk this site: six doors on [[index|home]]. This page is the *list*. To 
 
 ## Timeline
 
-- [[timeline/pre-chemistry]] through [[timeline/2026]] (one page per modern year from 2004)
+- [[timeline/pre-chemistry]] through [[timeline/2026]]
 
 ## Logs
 
