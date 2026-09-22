@@ -1,7 +1,8 @@
 ---
 title: Fringe
-description: Circulating plots and slogans, filed so they do not sit on Science or Medical.
 ---
+
+# Fringe
 
 <div class="start-list">
 

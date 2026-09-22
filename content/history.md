@@ -1,9 +1,10 @@
 ---
 title: History
-description: Year-by-year public record, from pre-chemistry through the living year.
 aliases:
   - timeline
 ---
+
+# History
 
 <div class="start-list">
 

@@ -1,7 +1,8 @@
 ---
 title: Companies
-description: Tickers and raises this archive files. Not a price list.
 ---
+
+# Companies
 
 <div class="start-list">
 

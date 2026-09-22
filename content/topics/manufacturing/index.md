@@ -1,7 +1,8 @@
 ---
 title: Manufacturing
-description: Who makes it, and what leaves a plant.
 ---
+
+# Manufacturing
 
 <div class="start-list">
 
