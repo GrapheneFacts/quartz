@@ -5,14 +5,8 @@ tags:
   - finance
 ---
 
-Nothing in this folder is a recommendation to buy, sell, or hold any security.
+Nothing here is a recommendation to buy, sell, or hold.
 
-[[topics/finance/how-we-log-figures|How we log figures]]
+**Start here:** [[topics/finance/how-we-log-figures|How we log figures]] · [[topics/finance/raises-2015-2025|Raises 2015–2025]] · [[topics/finance/listings|Listings]]
 
-## In this folder
-
-- [[topics/finance/raises-2015-2025|Raises 2015-2025]]
-- [[topics/finance/history|History catalogue]]
-- [[topics/finance/listings|Public listings]]
-- [[topics/finance/public-money|Public programmes]]
-- [[topics/finance/2026-09-15-conovate-doe-award|COnovate DOE $1.25M]]
+Also: [[topics/finance/history|History]] · [[topics/finance/public-money|Public programmes]]

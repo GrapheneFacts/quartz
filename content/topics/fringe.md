@@ -5,8 +5,6 @@ tags:
   - fringe
 ---
 
-These notes are **not** established science. They exist so readers can see what is circulating and why it fails basic evidence checks.
+Not established science. Logged so the rumor has a shelf that is not the science tab.
 
-- [[topics/fringe/2026-09-16-go-vaccine-5g-claims|GO in vaccines / 5G claims]]
-- [[fringe/log|Fringe log]]
-- [[recurrence/log|Recurrence log]]
+**Start here:** [[topics/fringe/2026-09-16-go-vaccine-5g-claims|GO / vaccine / 5G]] · [[logs/conspiracies|Conspiracies log]] · [[logs/unsourced|Unsourced]]
