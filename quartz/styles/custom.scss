@@ -28,10 +28,7 @@ article ol > li {
   display: none !important;
 }
 
-/* Index already has GrapheneFacts in the header */
-html[data-slug="/" i] article > h1:first-of-type,
-html[data-slug="index" i] article > h1:first-of-type,
-body:has(.start-list) article > h1:first-of-type {
+html[data-slug="/"] article > h1:first-of-type {
   position: absolute;
   width: 1px;
   height: 1px;
