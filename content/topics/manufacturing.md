@@ -1,20 +1,21 @@
 ---
 title: Manufacturing
-description: Who makes, processes, or buys graphene-family material — any phase. Catalogue, not a complete world census.
+description: Who makes, processes, or buys graphene-family material. Catalogue, not a census.
 tags:
   - manufacturing
   - industry
 ---
 
-Graphene is not harvested as a monolayer crop. Feedstock is usually **graphite** (mined or synthetic) or a gas for CVD. “Manufacturing” here means: make the sheet or powder, functionalize it, put it in a product, or sell the tool that does that.
+Graphene is not a crop. Feedstock is usually graphite or a carbon gas. A tonne-rating is not a tonne of 2004 Manchester flakes.
 
-Phase ≠ quality. A 4,000 t/year *rating* is not 4,000 t of 2004 Manchester flakes. [[reference/forms]] · [[reference/production]] · [[reference/standards]]
+[[reference/forms]] · [[reference/production]] · [[reference/standards]]
 
 ## In this folder
 
 - [[topics/manufacturing/directory|Directory]]
-- Related: [[topics/industry]] · [[logs/companies]] · [[topics/finance/listings]] · [[topics/finance/history]]
+- Plants: [[topics/manufacturing/nanoxplore-saint-laurent|NanoXplore Saint-Laurent]] · [[topics/manufacturing/first-graphene-henderson|First Graphene Henderson]] · [[topics/manufacturing/directa-plus|Directa Plus]] · [[topics/manufacturing/haydale|Haydale]] · [[topics/manufacturing/graphenea|Graphenea]] · [[topics/manufacturing/gmg|GMG]]
+- Related: [[topics/industry]] · [[logs/companies]] · [[topics/finance/listings]]
 
-## How a row gets in
+## How a plant gets a page
 
-Named plant, process, PO, or tool line in a paper, filing, or company release. Niche labs count. A logo on a conference booth without a process does not.
+Named site, process, purchase order, or tool line in a filing, paper, or company release. A booth logo is not enough.
