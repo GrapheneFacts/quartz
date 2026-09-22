@@ -17,6 +17,36 @@ article ol > li {
   margin: 0.35rem 0;
 }
 
+/* Home: a directory list, not tag chips */
+.home .content-meta,
+.home .page-description,
+.home .tags,
+[data-slug="/"] .content-meta {
+  display: none;
+}
+
+.start-list,
+.start-list ol {
+  margin: 0.25rem 0 1.25rem;
+  padding-left: 1.4rem;
+}
+
+.start-list ol > li {
+  margin: 0.45rem 0;
+  font-size: 1.12rem;
+  line-height: 1.45;
+}
+
+.start-list a,
+.start-list a.internal,
+.start-list a.internal-link {
+  background: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  border: none !important;
+}
+
 @media (max-width: 800px) {
   article {
     max-width: 100%;

@@ -1,17 +1,21 @@
 ---
 title: GrapheneFacts
 description: A readable archive of graphene-family materials.
+cssclasses:
+  - home
 ---
 
-[contact@graphenefacts.org](mailto:contact@graphenefacts.org) · [[notice|Notice]] · [[citations|Citations]]
+<div class="start-list">
 
-## Start
+1. [History](/history)
+2. [Science](/topics/research/science-catalogue)
+3. [Manufacturing](/topics/manufacturing/directory)
+4. [Companies](/topics/finance/listings)
+5. [Medical](/topics/medical)
+6. [Fringe](/topics/fringe)
 
-- [[history|History]]
-- [[topics/research/science-catalogue|Science]]
-- [[topics/manufacturing/directory|Manufacturing]]
-- [[topics/finance/listings|Companies]]
-- [[topics/medical|Medical]]
-- [[topics/fringe|Fringe]]
+</div>
 
-[[guides/glossary|Glossary]] · [[guides/map|Map]] · [[guides/site-index|Index]]
+[Glossary](/guides/glossary) · [Map](/guides/map) · [Index](/guides/site-index) · [Notice](/notice) · [Citations](/citations)
+
+[contact@graphenefacts.org](mailto:contact@graphenefacts.org)
