@@ -6,9 +6,7 @@ tags:
   - glossary
 ---
 
-Overloaded words, with links. Evidence labels live on [[guides/evidence-labels]].
-
-Jump: [[guides/site-index]] · [[reference/iso-vocabulary]]
+How to walk this site: six doors on the [[index|home]] and [[topics/graphene|graphene]] pages. This page is *words*, not a second directory. Labels: [[guides/evidence-labels]]. Full list of pages: [[guides/site-index]]. ISO wording: [[reference/iso-vocabulary]].
 
 ## A
 
@@ -34,7 +32,7 @@ Jump: [[guides/site-index]] · [[reference/iso-vocabulary]]
 
 ## C
 
-**Charmgraphene** — Korea R2R CVD + flake; Suwon Venture Valley 2. [[topics/manufacturing/east-asia]]
+**Charmgraphene** — Korea R2R CVD + flake; Suwon Venture Valley 2. [[topics/manufacturing/charmgraphene]]
 
 **CVD** — Chemical vapor deposition; often Cu then transfer. [[timeline/2011]] · [[topics/manufacturing/graphenea]]
 
@@ -44,7 +42,7 @@ Jump: [[guides/site-index]] · [[reference/iso-vocabulary]]
 
 ## E
 
-**eCOphite** — COnovate graphene-monoxide anode additive.
+**eCOphite** — COnovate graphene-monoxide anode additive. [[topics/manufacturing/conovate]]
 
 **Entitlement / SPP** — Pro-rata or share-purchase-plan raise. FGR 2020 entitlements; FGR 2023 SPP. [[topics/finance/raises-2015-2025]]
 
@@ -76,7 +74,7 @@ Jump: [[guides/site-index]] · [[reference/iso-vocabulary]]
 
 **GrapheneBlack** — NanoXplore powder mark. [[topics/manufacturing/nanoxplore-saint-laurent]]
 
-**Graphene Square** — Korea 2012; CVD film + CVD tools. [[topics/manufacturing/east-asia]]
+**Graphene Square** — Korea CVD film. Pohang plant. [[topics/manufacturing/graphene-square]]
 
 **Graphite / graphite oxide** — 3D parent; Brodie oxidized parent of GO.
 
@@ -98,11 +96,11 @@ Jump: [[guides/site-index]] · [[reference/iso-vocabulary]]
 
 ## K
 
-**Knano** — Xiamen powder house; Dongfu 2881 Bldg 16. Company ≥500 t/year. [[topics/manufacturing/east-asia]]
+**Knano** — Xiamen powder house. [[topics/manufacturing/knano]]
 
 ## L
 
-**LeaderNano** — Jining; 2015 copy 2–3 t/year phase one.
+**LeaderNano** — Jining. [[topics/manufacturing/leadernano]]
 
 **LPE** — Liquid-phase exfoliation.
 
@@ -124,7 +122,7 @@ Jump: [[guides/site-index]] · [[reference/iso-vocabulary]]
 
 **Monolayer** — One atomic sheet.
 
-**Moxi / Chongqing Graphene** — 15 Fengsheng Road, Jiulongpo; CVD sheets. [[topics/manufacturing/east-asia]]
+**Moxi / Chongqing Graphene** — Jiulongpo CVD sheets. [[topics/manufacturing/moxi]]
 
 ## N
 
@@ -158,7 +156,7 @@ Jump: [[guides/site-index]] · [[reference/iso-vocabulary]]
 
 **SiC epitaxy** — Heat SiC, Si leaves. Van Bommel 1975. [[timeline/1963-2003]]
 
-**Sixth Element** — Changzhou; 60 Jinping Road; GO 1,100 t / powder 150 t company-stated. [[timeline/2011]]
+**Sixth Element** — Changzhou GO/powder. [[topics/manufacturing/sixth-element]]
 
 **SPP** — Share purchase plan. FGR Dec 2023.
 
@@ -174,7 +172,7 @@ Jump: [[guides/site-index]] · [[reference/iso-vocabulary]]
 
 **Twistronics** — Device physics from a controlled twist. [[timeline/2018]]
 
-**2D Carbon** — Changzhou film house; 6 Xiangyun Road; NEEQ 833608. [[topics/manufacturing/east-asia]]
+**2D Carbon** — Changzhou film house. [[topics/manufacturing/2d-carbon]]
 
 ## U
 
@@ -186,12 +184,12 @@ Jump: [[guides/site-index]] · [[reference/iso-vocabulary]]
 
 **Well-supported** — Paper, regulator text, or confirmed order.
 
-**WSe₂ proximity** — Dichalcogenide next to graphene that can stabilize or boost SC (2023 BLG and TDBG papers). [[timeline/2023]]
+**WSe₂ proximity** — Dichalcogenide next to graphene that can stabilize or boost SC (2023 papers). [[timeline/2023]]
 
 ## X
 
-**XFNANO** — Nanjing catalogue / Pukou plant. 2017 capacity claims labeled as that year. [[topics/manufacturing/east-asia]]
+**XFNANO** — Nanjing catalogue / Pukou plant. [[topics/manufacturing/xfnano]]
 
 ## Z
 
-**ZGNR** — Zigzag-edge graphene nanoribbon. Ruffieux/Cai 2016 on-surface synthesis. [[timeline/2016]]
+**ZGNR** — Zigzag-edge graphene nanoribbon. Ruffieux/Cai 2016. [[timeline/2016]]
