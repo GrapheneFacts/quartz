@@ -6,6 +6,6 @@ tags:
   - industry
 ---
 
-**Start here:** [[topics/manufacturing/directory|Directory]] · [[topics/manufacturing/applications|What leaves a plant]] · [[topics/manufacturing/east-asia|East Asia]]
+**Start here:** [[topics/manufacturing/directory|Directory]] · [[reference/applications|What leaves a plant]] · [[topics/manufacturing/east-asia|East Asia]]
 
 [[reference/forms]] · [[reference/production]] · [[notice|Notice]]
