@@ -1,7 +1,8 @@
 ---
 title: Medical
-description: Health, biology, and devices. Not a treatment guide.
 ---
+
+# Medical
 
 <div class="start-list">
 
