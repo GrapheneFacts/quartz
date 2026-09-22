@@ -6,126 +6,136 @@ tags:
   - glossary
 ---
 
-Strange or overloaded words, with links to the write-ups that use them. Folder names are for browsing; [[guides/evidence-labels|evidence labels]] are for confidence.
+Strange or overloaded words, with links to the write-ups that use them.
 
-Jump: [[guides/site-index|Site index]]
+Jump: [[guides/site-index|Site index]] · [[reference/iso-vocabulary|ISO / IEC wording]]
 
 ## A
 
-**ACS Nano** — ACS journal where the holey-graphene stencil paper ran (2015). [[posts/holey-graphene-molecular-stencil]] · [[topics/engineering/2026-09-15-ucla-graphene-stencil]]
+**ACS Nano** — ACS journal; holey-graphene stencil paper (2015). [[posts/holey-graphene-molecular-stencil]]
+
+**AIM** — London junior market. AGM 2013, Haydale 2014, Directa Plus 2016. [[topics/finance/raises-2015-2025]] · [[topics/finance/history]]
 
 ## B
 
-**Band / exposure band** — Occupational hygiene range (here 10 µg/m³), not an OSHA PEL. [[topics/policy/2026-09-16-niosh-graphene-exposure]] · [[weekly/2026-W38]]
+**Band / exposure band** — Occupational hygiene range (here 10 µg/m³), not an OSHA PEL. [[topics/policy/2026-09-16-niosh-graphene-exposure]]
 
-**Boehm** — Hanns-Peter Boehm; 1962 monolayer carbon from reduced graphite oxide; later naming of graphene. [[timeline/1962]] · [[timeline/1963-2003]] · [[timeline/before-1900]]
+**Boehm** — Hanns-Peter Boehm; 1962 monolayer carbon from reduced graphite oxide; later naming of graphene. [[timeline/1962]] · [[timeline/1963-2003]]
 
-**Brodie** — Benjamin Collins Brodie; 1859 oxidation of graphite, ancestor of graphite-oxide chemistry. [[timeline/before-1900]]
+**Brodie** — Benjamin Collins Brodie; 1859 oxidation of graphite. [[timeline/before-1900]]
 
-**Brillouin zone** — Reciprocal-space cell; graphene’s Dirac points sit at the K and K′ corners. [[timeline/1947]]
+**Brillouin zone** — Reciprocal-space cell; Dirac points at K and K′. [[timeline/1947]]
 
 ## C
 
-**Cascaded centrifugation** — Stepped spin speeds after liquid-phase exfoliation to sort flake size/thickness. [[topics/research/2026-09-12-few-layer-graphene-centrifugation]] · [[weekly/2026-W38]]
+**Cascaded centrifugation** — Stepped spins after LPE to sort flakes. [[topics/research/2026-09-12-few-layer-graphene-centrifugation]]
 
-**CVD** — Chemical vapor deposition; grow graphene (often on copper) then transfer. [[timeline/2005-2009]] · [[timeline/2011-2012]] · [[timeline/2004]]
+**CVD** — Chemical vapor deposition; often Cu then transfer. [[timeline/2011]] · [[topics/manufacturing/graphenea]]
 
 ## D
 
-**Dirac point / Dirac fermion** — Where graphene’s bands touch and go linear; carriers behave as if massless. Wallace 1947 theory; 2005 experiments. [[timeline/1947]] · [[timeline/2005-2009]] · [[timeline/2004]]
+**Dirac point / Dirac fermion** — Bands touch and go linear. Wallace 1947; 2005 experiments. [[timeline/1947]] · [[timeline/2004]]
 
 ## E
 
-**eCOphite** — COnovate graphene-monoxide anode additive; DOE scale-up award. [[topics/finance/2026-09-15-conovate-doe-award]] · [[weekly/2026-W38]]
+**eCOphite** — COnovate graphene-monoxide anode additive. [[topics/finance/2026-09-15-conovate-doe-award]]
 
-**Evidence label** — Well-supported / Preliminary / Unverified / Fringe. [[guides/evidence-labels]] · [[about]]
+**Evidence label** — Well-supported / Preliminary / Unverified / Fringe. [[guides/evidence-labels]]
 
 ## F
 
-**Few-layer graphene (FLG)** — A few stacked honeycomb sheets (often ~2–10), not a strict monolayer. [[topics/research/2026-09-12-few-layer-graphene-centrifugation]] · [[timeline/2004]]
+**f_T** — Current-gain cut-off frequency of an RF FET. IBM 100 GHz (2010 SiC) and 155 GHz (2011 CVD) are f_T numbers, not phone chips. [[timeline/2010]] · [[timeline/2011]]
 
-**Flagship** — EU Graphene Flagship (from 2013): large public coordination program. [[timeline/2013]] · [[timeline/2010]]
+**FET Flagship** — EU Future and Emerging Technologies Flagship; Graphene selected 28 Jan 2013. [[timeline/2013]]
 
-**Fringe** — Conspiracy-style narrative, documented and labeled, not treated as fact. [[guides/evidence-labels]] · [[topics/fringe]] · [[fringe/log]] · [[topics/fringe/2026-09-16-go-vaccine-5g-claims]]
+**Few-layer graphene (FLG)** — A few stacked sheets, often ~2–10. ISO wording on [[reference/iso-vocabulary]]. [[timeline/2004]]
+
+**Fringe** — Conspiracy-style narrative, labeled, not treated as fact. [[topics/fringe]]
 
 ## G
 
-**GO (graphene oxide)** — Oxidized, usually water-processable sheets from graphite oxide. Not the same as a cleaved monolayer. [[timeline/before-1900]] · [[timeline/1962]] · [[topics/fringe/2026-09-16-go-vaccine-5g-claims]] · [[weekly/2026-W38]]
+**G+** — Directa Plus product family. [[topics/manufacturing/directa-plus]]
 
-**Graphene** — One-atom-thick honeycomb carbon sheet. Name fixed mid-1980s; isolation-and-measurement inflection in 2004. [[timeline/1962]] · [[timeline/1963-2003]] · [[timeline/2004]] · [[timeline/index]]
+**GO (graphene oxide)** — Oxidized sheets from graphite oxide. Not a cleaved monolayer. [[topics/health/form-route]] · [[reference/iso-vocabulary]]
 
-**Graphene monoxide** — Company-stated anode additive chemistry (COnovate / eCOphite), not a synonym for GO. [[topics/finance/2026-09-15-conovate-doe-award]]
+**Graphene** — One-atom honeycomb carbon sheet. Name mid-1980s; 2004 is isolation-and-measurement. [[timeline/2004]] · [[reference/iso-vocabulary]]
 
-**Graphite** — Stacked 3D carbon; the parent crystal you cleave or oxidize. [[timeline/before-1900]] · [[timeline/1900-1946]] · [[timeline/2004]]
+**GrapheneBlack** — NanoXplore powder trademark. [[topics/manufacturing/nanoxplore-saint-laurent]]
 
-**Graphite oxide** — Heavily oxidized, lamellar graphite product (Brodie lineage). Parent of GO dispersions. [[timeline/before-1900]] · [[timeline/1948-1961]]
+**Graphene monoxide** — COnovate chemistry; not a synonym for GO.
+
+**Graphite** — Stacked 3D carbon.
+
+**Graphite oxide** — Heavily oxidized lamellar graphite (Brodie lineage).
 
 ## H
 
-**hBN** — Hexagonal boron nitride; insulating 2D cousin often stacked with graphene. [[timeline/2010]] · [[posts/holey-graphene-molecular-stencil]]
+**hBN** — Hexagonal boron nitride. [[timeline/2010]]
 
-**Holey graphene** — Graphene sheet with engineered holes, used as a molecular mask on gold. [[posts/holey-graphene-molecular-stencil]] · [[topics/engineering/2026-09-15-ucla-graphene-stencil]]
+**Haydale** — Plasma-functionalized carbon; AIM 2014. [[topics/manufacturing/haydale]]
+
+**Holey graphene** — Sheet with engineered holes. [[posts/holey-graphene-molecular-stencil]]
+
+## I
+
+**INBRAIN** — Graphene cortical interface; NCT06368310. [[topics/health/form-route]] · [[topics/health/biomedical-catalogue]]
+
+**ISO / IEC graphene vocabulary** — Formal wording for graphene, FLG, GNP, GO. [[reference/iso-vocabulary]] · [[timeline/2017]]
 
 ## L
 
-**LPE (liquid-phase exfoliation)** — Shake or sonicate graphite in solvent to peel flakes; often paired with centrifugation. [[topics/research/2026-09-12-few-layer-graphene-centrifugation]] · [[weekly/2026-W38]]
+**LPE** — Liquid-phase exfoliation.
 
 ## M
 
-**Masterbatch** — Graphene pre-dispersed in polymer or liquid so plants do not handle dry powder. [[topics/policy/2026-09-16-niosh-graphene-exposure]] · [[weekly/2026-W38]]
+**Masterbatch** — Graphene pre-dispersed so plants skip dry powder.
 
-**Mechanical cleavage / Scotch tape** — Peel graphite with adhesive to get flakes; 2004 Manchester method. [[timeline/2004]]
+**Mechanical cleavage / Scotch tape** — 2004 Manchester peel. [[timeline/2004]]
 
-**Mermin–Wagner** — Theorem often (sloppily) invoked to say free 2D crystals cannot exist. Context only. [[timeline/1963-2003]] · [[timeline/1947]]
+**Mermin–Wagner** — Often misused to say free 2D crystals cannot exist. [[timeline/1963-2003]]
 
-**Monolayer** — One atomic sheet. Distinct from few-layer, nanoplatelets, and GO paper. [[timeline/1962]] · [[timeline/2004]] · [[timeline/1947]]
+**Monolayer** — One atomic sheet.
 
 ## N
 
-**Nanoplatelet** — Thick-ish stack sold as “graphene”; quality varies. [[timeline/1963-2003]] · [[timeline/2014-2019]] · [[timeline/2004]]
+**Nanoplatelet / GNP** — Thick-ish stack sold as graphene. [[reference/iso-vocabulary]]
 
-**NIOSH** — US occupational-health institute; workplace graphene sampling. [[topics/policy/2026-09-16-niosh-graphene-exposure]] · [[topics/health/2026-09-16-niosh-exposure-context]]
+**NCT03659864** — Andrews et al. 2024 controlled GO inhalation. [[topics/health/form-route]]
+
+**NCT06368310** — INBRAIN first-in-human cortical interface. [[topics/health/form-route]]
+
+**NIOSH** — US workplace sampling. [[topics/policy/2026-09-16-niosh-graphene-exposure]]
 
 ## P
 
-**PEL** — OSHA permissible exposure limit. The 10 µg/m³ graphene figure in our notes is a **band**, not a PEL. [[topics/policy/2026-09-16-niosh-graphene-exposure]]
+**PEL** — OSHA limit. The 10 µg/m³ figure here is a **band**, not a PEL.
 
-**Preliminary** — Evidence label: preprint, company lab data, small-cell test. [[guides/evidence-labels]] · [[topics/industry/2026-09-09-gmg-battery-cycling]]
-
-**PureGRAPH** — First Graphene product name in the Pacific Urethanes order. [[topics/industry/2026-09-10-first-graphene-pacific-urethanes]]
+**PureGRAPH** — First Graphene product name. [[topics/manufacturing/first-graphene-henderson]]
 
 ## R
 
-**rGO (reduced graphene oxide)** — GO with oxygen stripped back; closer to graphene than GO, still defective vs cleaved crystal. [[timeline/before-1900]] · [[timeline/1962]]
+**rGO** — Reduced graphene oxide.
 
-**Recurrence** — Not new; a claim or paper circulating again. [[recurrence/log]] · [[posts/holey-graphene-molecular-stencil]] · [[guides/posting-calendar]]
+**REACH** — EU chemical registration; several powder houses cite a graphene consortium.
 
 ## S
 
-**SAM (self-assembled monolayer)** — Molecules that spontaneously pack on a surface (here, thiols on gold). [[posts/holey-graphene-molecular-stencil]]
+**Sixth Element** — Changzhou GO/rGO producer, founded 2011. [[topics/manufacturing/east-asia]] · [[timeline/2011]]
 
-**SiO₂ / oxidized silicon** — The oxide that made 2004 flakes visible and gateable. [[timeline/2004]] · [[timeline/1963-2003]]
-
-**Stencil / mask** — A barrier with openings so chemistry happens only in the holes. [[posts/holey-graphene-molecular-stencil]]
+**SiC epitaxy** — Heat SiC, Si leaves, carbon remains. Van Bommel 1975. [[timeline/1963-2003]]
 
 ## T
 
-**10C** — Charge or discharge in 1/10 hour (~6 minutes). GMG small-cell data. [[topics/industry/2026-09-09-gmg-battery-cycling]] · [[weekly/2026-W38]]
+**10C** — Charge in ~6 minutes. GMG cell talk.
 
-**Thiol (–SH)** — Head group that binds gold; used to park molecules in stencil openings. [[posts/holey-graphene-molecular-stencil]]
-
-**TMDC** — Transition-metal dichalcogenide (MoS₂, WS₂, …); 2D semiconductors often named next to graphene. [[timeline/2010]] · [[posts/holey-graphene-molecular-stencil]]
+**TMDC** — MoS₂ and cousins.
 
 ## U
 
-**Unverified** — Evidence label: assertion without a solid primary source. [[guides/evidence-labels]]
+**Unverified** — Assertion without a solid primary. [[guides/evidence-labels]]
 
 ## W
 
-**Wallace** — P. R. Wallace; 1947 single-layer graphite band structure. [[timeline/1947]]
+**Wallace** — P. R. Wallace; 1947 band structure. [[timeline/1947]]
 
-**Weed barrier** — Weiss-group metaphor: graphene blocks molecules except at holes. [[posts/holey-graphene-molecular-stencil]]
-
-**Well-supported** — Evidence label: peer-reviewed paper, official regulator text, or confirmed order. [[guides/evidence-labels]]
-
-**Wet spinning** — Draw a dope into fibre; GO in viscous solvent can behave like a polymer. [[weekly/2026-W38]]
+**Well-supported** — Peer-reviewed paper, regulator text, or confirmed order.
