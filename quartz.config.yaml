@@ -133,6 +133,11 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      title: Browse
+      folderClickBehavior: collapse
+      folderDefaultState: collapsed
+      useSavedState: true
     layout:
       position: left
       priority: 50
@@ -215,7 +220,16 @@ plugins:
       position: footer
       priority: 50
   - source: "@quartz-community/recent-notes"
-    enabled: false
+    enabled: true
+    options:
+      title: Newly touched
+      limit: 6
+      showTags: false
+      hideTagPages: true
+      hideFolderPages: true
+    layout:
+      position: afterBody
+      priority: 20
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
