@@ -9,9 +9,9 @@ Start on [[index|home]]. Terms: [[notice|Notice]]. Sources: [[citations|Citation
 
 - [[timeline/index|History]]
 - [[topics/research/science-catalogue|Science]]
-- [[topics/manufacturing/directory|Plants]] · [[reference/applications|What ships]]
+- [[topics/manufacturing/directory|Manufacturing]] · [[reference/applications|What ships]]
 - [[topics/finance/listings|Companies]] · [[topics/finance/raises-2015-2025|Raises]]
-- [[topics/health|Health]]
+- [[topics/medical|Medical]] — [[topics/health|Health]] · [[topics/medical/biology|Biology]] · [[topics/medical/biomechanical|Bio-mechanical]]
 - [[topics/fringe|Fringe]]
 
 ## Reference
