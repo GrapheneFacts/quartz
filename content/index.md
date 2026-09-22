@@ -1,21 +1,17 @@
 ---
 title: GrapheneFacts
-description: A readable archive of graphene-family materials. Start anywhere. Labels on the claims.
+description: A readable archive of graphene-family materials. Start anywhere.
 ---
 
-A library, not a feed. Short notes still go on [@GrapheneFacts](https://x.com/GrapheneFacts). Long copy stays here.
-
-Nothing here is medical, investment, or legal advice. Claims carry an [[guides/evidence-labels|evidence label]].
-
-Mail: [contact@graphenefacts.org](mailto:contact@graphenefacts.org).
+Mail: [contact@graphenefacts.org](mailto:contact@graphenefacts.org). Official terms: [[notice|Notice]].
 
 ## Six doors
 
 - **When** — [[timeline/index|Timeline]]
 - **Lab science** — [[topics/research/science-catalogue|Science catalogue]]
-- **Plants** — [[topics/manufacturing|Manufacturing]] (directory, applications, East Asia only on that hub)
+- **Plants** — [[topics/manufacturing|Manufacturing]]
 - **Money** — [[topics/finance|Finance]]
 - **Bodies** — [[topics/health|Health]]
-- **Rumor column** — [[topics/fringe|Fringe]] (labeled, separate)
+- **Rumor column** — [[topics/fringe|Fringe]]
 
-Words: [[guides/glossary|Glossary]]. How to choose a folder: [[guides/map|Map]]. Every page: [[guides/site-index|Index]].
+Words: [[guides/glossary|Glossary]]. Folders: [[guides/map|Map]]. Every page: [[guides/site-index|Index]].
