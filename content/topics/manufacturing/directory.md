@@ -5,36 +5,37 @@ tags:
   - manufacturing
 ---
 
-**Evidence:** the *name* is used in the industrial conversation. Tonnes and “world’s largest” are company-stated unless a regulator or customer repeats them.
+**Evidence:** the *name* is used. Tonnes are company-stated unless a regulator or customer repeats them.
 
 Parent: [[topics/manufacturing]]
 
 ## Plants with a page
 
-- [[topics/manufacturing/nanoxplore-saint-laurent|NanoXplore, Saint-Laurent, Québec]] — GrapheneBlack powder. Company: 4,000 t/year class. TSX GRA.
-- [[topics/manufacturing/first-graphene-henderson|First Graphene, Henderson, WA]] — PureGRAPH. Company: up to 100 t/year. ASX FGR.
-- [[topics/manufacturing/directa-plus|Directa Plus, Lomazzo]] — G+ family. AIM DCTA.
-- [[topics/manufacturing/haydale|Haydale]] — plasma functionalization + heating goods. AIM HAYD.
-- [[topics/manufacturing/graphenea|Graphenea, San Sebastián / Boston]] — CVD films and GO lots.
-- [[topics/manufacturing/gmg|Graphene Manufacturing Group, Brisbane area]] — plasma graphene. TSXV GMG.
+- [[topics/manufacturing/nanoxplore-saint-laurent|NanoXplore, Saint-Laurent]] — GrapheneBlack. Company 4,000 t class. TSX GRA.
+- [[topics/manufacturing/first-graphene-henderson|First Graphene, Henderson]] — PureGRAPH. Company up to 100 t. ASX FGR.
+- [[topics/manufacturing/directa-plus|Directa Plus, Lomazzo]] — G+. AIM DCTA.
+- [[topics/manufacturing/haydale|Haydale]] — plasma + heating goods. AIM HAYD.
+- [[topics/manufacturing/graphenea|Graphenea]] — CVD films and GO lots.
+- [[topics/manufacturing/gmg|GMG, Brisbane area]] — plasma graphene. TSXV GMG.
+- [[topics/manufacturing/black-swan-consett|Black Swan, Consett]] — Thomas Swan site. Company 40 → 140 t. TSXV SWAN.
+- [[topics/manufacturing/sixth-element|Sixth Element, Changzhou]] — GO 1,100 t / powder 150 t company site. NEEQ 831190.
+- [[topics/manufacturing/2d-carbon|2D Carbon, Changzhou]] — CVD film. NEEQ 833608.
+
+## Named on the East Asia list
+
+[[topics/manufacturing/east-asia]] — Knano, XFNANO, Moxi, LeaderNano, Graphene Square, Charmgraphene.
 
 ## Named, no dedicated page yet
 
-- Black Swan Graphene (TSXV SWAN) — nanoplatelets; Thomas Swan heritage often cited.
-- HydroGraph / Sparc pairings — coatings tests. [[weekly/2026-W38]]
-- Talga — graphite-to-anode first; graphene is a side label. Do not file as a graphene mill without the year’s filing.
-- Graphene Square and other CVD houses — films; confirm the current SKU.
-- CVD Equipment (NASDAQ CVV) — tools, not bags of powder.
-- Pacific Urethanes — buyer of PureGRAPH (2026 PO).
-- COnovate — graphene-monoxide chemistry. [[topics/finance/2026-09-15-conovate-doe-award]]
-- Zentek — coatings / filter media in 2026 roundups.
-- INBRAIN — investigational device, not a mill. [[topics/health/biomedical-catalogue]]
-
-## Historical or status-unclear
-
-- Applied Graphene Materials — Durham spin-out; 2013 AIM IPO. [[topics/finance/history]]
-- Graphene Frontiers, Vorbeck, Angstron — early US names.
+- HydroGraph / Sparc — coatings tests.
+- Talga — graphite-to-anode first.
+- CVD Equipment (NASDAQ CVV) — tools.
+- Pacific Urethanes — PureGRAPH buyer.
+- COnovate — graphene-monoxide chemistry.
+- Zentek — coatings / filters.
 - Versarien — UK public composite story; check the current filing.
-- Graphene Nanochem / Cientifica — 2013 AIM-era names.
+- INBRAIN — device, not a mill.
 
-Add a row when a plant, PO, or tool exists in a primary.
+## Historical
+
+AGM (Durham, 2013 AIM). Graphene Frontiers, Vorbeck, Angstron. Graphene Nanochem / Cientifica.
