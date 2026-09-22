@@ -1,12 +1,12 @@
 ---
 title: Health
-description: Form × route, trials, exposure.
+description: Form, dose, and route. Occupational numbers and small human studies. Not a treatment guide.
 tags:
   - health
 ---
 
-**Start here:** [[topics/health/form-route|Form × route]] · [[topics/health/effects|Effects]] · [[topics/health/biomedical-catalogue|Biomedical catalogue]]
+Graphene-family materials are not one toxicology object. Start with how the sheet is made and how it enters a body, then the effects table, then the trial list.
 
-Hygiene field notes: [[topics/policy|Policy]]. Plot-style overlay: [[topics/fringe|Fringe]].
+[[topics/health/form-route|Form × route]] · [[topics/health/effects|Effects]] · [[topics/health/biomedical-catalogue|Biomedical catalogue]]
 
-[[notice|Notice]]
+Workplace sampling sits with [[topics/policy|Policy]]. Plot-style overlay sits on [[topics/fringe|Fringe]].

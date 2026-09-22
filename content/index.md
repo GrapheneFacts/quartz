@@ -7,11 +7,11 @@ description: A readable archive of graphene-family materials.
 
 ## Start
 
-- [[timeline/index|History]] — year by year
-- [[topics/research/science-catalogue|Science]] — what the papers measured
-- [[topics/manufacturing/directory|Plants and products]] — who makes it, what ships
-- [[topics/finance/listings|Companies]] — tickers and raises, not prices
-- [[topics/health|Health]] — form, dose, route
-- [[topics/fringe|Fringe]] — rumors, labeled and kept apart
+- [[timeline/index|History]]
+- [[topics/research/science-catalogue|Science]]
+- [[topics/manufacturing/directory|Plants and products]]
+- [[topics/finance/listings|Companies]]
+- [[topics/health|Health]]
+- [[topics/fringe|Fringe]]
 
 [[guides/glossary|Glossary]] · [[guides/map|Map]] · [[guides/site-index|Index]]

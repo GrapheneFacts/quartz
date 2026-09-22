@@ -1,11 +1,11 @@
 ---
-title: Graphene timeline
-description: Pre-chemistry through the living year.
+title: History
+description: Year-by-year public record, from pre-chemistry through the living year. Not a sales pitch.
 tags:
   - timeline
 ---
 
-Public record by year. Ideas → [[logs/theories]]. Firms → [[logs/companies]]. Myths → [[logs/conspiracies]].
+Each year page is what sat on the public record that year. Ideas have their own log ([[logs/theories]]); firms ([[logs/companies]]); myths ([[logs/conspiracies]]).
 
 ## Deep past
 

@@ -1,11 +1,13 @@
 ---
-title: Science catalogue
-description: "What the graphene-family literature established, where it stalled, and what people still project."
+title: Science
+description: What the literature established, where the 2004–12 pitch stalled, and what is still open.
 tags:
   - research
 ---
 
-Companion to [[topics/health/biomedical-catalogue]] and [[reference/key-papers]].
+Papers and measurements. Bodies and exposure sit on [[topics/health|Health]]. Named papers also live on the year pages.
+
+Companion: [[reference/key-papers]] · [[topics/health/biomedical-catalogue]]
 
 ## Established enough to teach
 

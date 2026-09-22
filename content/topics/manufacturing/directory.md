@@ -1,13 +1,11 @@
 ---
-title: Manufacturing directory
-description: Plants, processors, tool vendors, and named buyers. Not a rating.
+title: Plants and products
+description: Named sites, processors, tool vendors, and buyers. A tonne figure is company-stated unless a regulator or customer repeats it. Not a rating.
 tags:
   - manufacturing
 ---
 
-**Evidence:** the *name* and a site. Tonnes are company-stated unless a regulator or customer repeats them.
-
-Parent: [[topics/manufacturing]] · East Asia hub: [[topics/manufacturing/east-asia]] · Sources: [[guides/sources]]
+Who runs a line, and what leaves it. What *ships* as a coat, panel, or filter is on [[reference/applications]]. East Asia list: [[topics/manufacturing/east-asia]].
 
 ## Public powder / additive
 
