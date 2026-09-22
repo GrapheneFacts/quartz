@@ -1,6 +1,5 @@
 ---
 title: GrapheneFacts
-description: A readable archive of graphene-family materials.
 ---
 
 <div class="start-list">
