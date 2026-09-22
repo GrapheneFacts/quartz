@@ -17,10 +17,8 @@ article ol > li {
   margin: 0.35rem 0;
 }
 
-/* Home: a directory list, not tag chips */
 .home .content-meta,
-.home .page-description,
-.home .tags,
+.hub .content-meta,
 [data-slug="/"] .content-meta {
   display: none;
 }
