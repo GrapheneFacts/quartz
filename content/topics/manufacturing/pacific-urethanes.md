@@ -1,29 +1,20 @@
 ---
 title: Pacific Urethanes (Dandenong South)
-description: "Buyer of PureGRAPH for fire-retardant mining PU. Not a graphene mill."
+description: "Buyer of PureGRAPH for fire-retardant mining PU. Fire class unpublished."
 tags:
   - manufacturing
 ---
 
-**Evidence:** FGR 9 Sep 2026 production-order release. Mechanism language is the issuer’s. Not a test report we ran.
+**Evidence:** FGR 9 Sep 2026 production-order release. Fire *class* is unpublished — Preliminary gap, not a hidden UL 94.
 
-Parent: [[topics/manufacturing/directory]] · [[topics/manufacturing/first-graphene-henderson]] · [[topics/industry/2026-09-10-first-graphene-pacific-urethanes]] · [[topics/manufacturing/applications]]
+Parent: [[topics/manufacturing/directory]] · [[topics/manufacturing/first-graphene-henderson]] · [[topics/industry/2026-09-10-first-graphene-pacific-urethanes]] · [[reference/applications]]
 
 ## Site
 
-Pacific Urethanes Pty Ltd. **2–10 Produce Drive, Dandenong South, VIC 3175.** Australian-owned PU systems house (construction, mining wear, coatings, spray foam, polyurea). HQ here from **1 Sep 2019** in their note.
+Pacific Urethanes Pty Ltd. **2–10 Produce Drive, Dandenong South, VIC 3175.** HQ here from 1 Sep 2019 in their note. They formulate PU. They do not grow graphene.
 
-They formulate systems. They do not grow graphene.
+## Graphene step
 
-## The graphene step (company-stated)
+9 Sep 2026 — first FGR *production* PO of PureGRAPH into mining-sector PU as a fire-retardancy helper, wear kept. FGR list of PU already in a mine: liners, screens, slurry, conveyors, seals, coats. Stated mechanism: planar barrier + char; used with non-halogenated FR at lower loading (Armstrong / Proactive). ~Two years of customer work before the PO.
 
-**9 Sep 2026 — First Graphene first production PO** of PureGRAPH into Pacific Urethanes PU formulations.
-
-- **Job:** fire-retardancy helper in mining-sector PU, while keeping wear/durability.
-- **Where PU already sits in a mine:** screening media, wear liners, slurry parts, conveyor bits, pumps, pipe, chute/hopper liners, seals, protective coats — FGR list, not a plant tour.
-- **Stated mechanism:** planar sheets as a barrier to heat and decomposition products; help a protective char. FGR commercial manager (Proactive, 10 Sep 2026): used *with* conventional non-halogenated FR additives so the package can hit a fire spec at **lower additive loading**. Development work ~**two years** before the PO in that interview.
-- **Geography in the release:** Australian mining first; wear + fire is a global PU problem, not a second mill.
-
-No public coupon size, wt%, or named fire standard on the release we logged. Those belong on a later row when a spec sheet exists.
-
-Do not add PU tonnes to anyone’s graphene capacity.
+No public wt%, coupon size, or named fire standard (no UL 94 / AS 1530 on the release). That cell stays empty until they publish it.

@@ -1,22 +1,22 @@
 ---
 title: Zentek ZenGUARD
-description: "Graphene-based coat on filter media and PPE. Regulatory status is the useful fact."
+description: "Graphene-based coat on filter media and PPE. Regulatory row dated. ASHRAE figures company-stated."
 tags:
   - industry
 ---
 
+**ASHRAE numbers: Preliminary** (company recap of a test). Health Canada classification: dated release.
+
 Parent: [[reference/applications]] · [[topics/manufacturing/zentek]]
 
-## What it is
+ZenGUARD is a **coating on a substrate**. HVAC filter media and surgical masks / air-contact surfaces.
 
-ZenGUARD is a **coating on a substrate**, not a bag of powder. Zentek: graphene-based formulation on HVAC filter media and on surgical masks / other air-contact surfaces. Company mechanism talk: change surface topography / mechanical capture, not a pesticide mode of action in the 2026 Health Canada filter classification.
+## Regulatory
 
-Guelph production facility in company contact copy.
+- Brand 13 Apr 2021. Canadian patent PPE + HVAC granted 6 Dec 2022 (term to 20 Sep 2041) in later SEC text.
+- 29 Nov 2021 — Health Canada MDEL **18823**, Class I including coated devices.
+- **6 May 2026** — PRD: Enhanced Air Filters not under the Pest Control Products Act; s. 3(1)(a) mechanical mode of action; **conditional** on design, instructions, marketing. Company then accepting Canadian filter orders.
 
-## Regulatory rows (dated)
+## ASHRAE 52.2 (company)
 
-- Brand announced **13 Apr 2021**. Canadian patent on PPE + HVAC granted **6 Dec 2022** (term to 20 Sep 2041) in later SEC text.
-- **29 Nov 2021** — Health Canada MDEL 18823 for Class I devices including ZenGUARD-coated products, subject to the Medical Devices Regulations.
-- **6 May 2026** — Health Canada PRD: ZenGUARD Enhanced Air Filters **not** regulated under the Pest Control Products Act; exemption s. 3(1)(a) as mechanical mode of action. Classification **conditional** on design, instructions, and marketing. Company then: accepting commercial filter orders in Canada.
-
-Viral-filtration numbers from GAP Labs (2021) stay on the issuer’s mask story until the report is attached. Market-size slides stay off this page.
+6 May 2026 materials: media tested to ASHRAE **52.2**; **MERV 9** with pressure drop they say matches uncoated media at standard and high airflow. The **lab report file** is not on this shelf. The ASHRAE standard PDF is a paid method document, not their result sheet.
