@@ -1,7 +1,3 @@
----
-title: GrapheneFacts
----
-
 <div class="home-flag"></div>
 
 <div class="start-list">

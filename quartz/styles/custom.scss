@@ -29,11 +29,16 @@ article ol > li {
 }
 
 .home-flag {
-  display: none;
+  display: none !important;
 }
 
-article:has(.home-flag) > h1 {
+article:has(.home-flag) h1 {
   display: none !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  font-size: 0 !important;
 }
 
 .start-list,
