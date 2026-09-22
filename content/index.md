@@ -7,7 +7,7 @@ description: A readable archive of graphene-family materials.
 
 ## Start
 
-- [[timeline/index|History]]
+- [[history|History]]
 - [[topics/research/science-catalogue|Science]]
 - [[topics/manufacturing/directory|Manufacturing]]
 - [[topics/finance/listings|Companies]]
