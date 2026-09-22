@@ -17,16 +17,16 @@ article ol > li {
   margin: 0.35rem 0;
 }
 
-/* Date / read-time / newly touched — off on phone and desktop */
 .content-meta,
 .page-meta,
 .meta,
-[data-content-meta],
+.properties,
+.frontmatter,
+.note-properties,
+[data-properties],
 .recent-notes,
 .recent,
-section.recent-notes,
-.home .content-meta,
-.hub .content-meta {
+section.recent-notes {
   display: none !important;
 }
 
