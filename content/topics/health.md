@@ -1,10 +1,14 @@
 ---
 title: Health
-description: Form, dose, and route. Occupational numbers and small human studies. One shelf under Medical.
-tags:
-  - health
+description: Form, dose, and route. Occupational numbers and small human studies.
+cssclasses:
+  - hub
 ---
 
-Parent: [[topics/medical]]. Biology and devices have their own pages.
+<div class="start-list">
 
-[[topics/health/form-route|Form × route]] · [[topics/health/effects|Effects]] · [[topics/health/biomedical-catalogue|Biomedical catalogue]]
+1. [Form × route](/topics/health/form-route)
+2. [Effects](/topics/health/effects)
+3. [Biomedical catalogue](/topics/health/biomedical-catalogue)
+
+</div>

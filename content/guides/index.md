@@ -1,10 +1,14 @@
 ---
 title: Look up
 description: Define a word, find a page, or see what was cited.
-tags:
-  - guide
+cssclasses:
+  - hub
 ---
 
-- [[guides/glossary|Glossary]] — definitions
-- [[guides/site-index|Index]] — list of pages
-- [[citations|Citations]] — what was cited
+<div class="start-list">
+
+1. [Glossary](/guides/glossary)
+2. [Index](/guides/site-index)
+3. [Citations](/citations)
+
+</div>

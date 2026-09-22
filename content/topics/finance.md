@@ -1,12 +1,14 @@
 ---
 title: Companies
-description: Tickers, raises, and public programmes. Not a price list.
-tags:
-  - finance
+description: Tickers and raises this archive files. Not a price list.
+cssclasses:
+  - hub
 ---
 
-[[topics/finance/listings|Who is listed]] · [[topics/finance/raises-2015-2025|Raises]] · [[topics/finance/how-we-log-figures|How figures are logged]]
+<div class="start-list">
 
-Also: [[topics/finance/history|History]] · [[topics/finance/public-money|Public programmes]]
+1. [Listings](/topics/finance/listings)
+2. [Raises](/topics/finance/raises-2015-2025)
+3. [How figures are logged](/topics/finance/how-we-log-figures)
 
-[[notice|Notice]]
+</div>

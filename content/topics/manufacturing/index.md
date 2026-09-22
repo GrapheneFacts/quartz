@@ -1,10 +1,14 @@
 ---
 title: Manufacturing
-description: Who makes, processes, or buys graphene-family material.
-tags:
-  - manufacturing
+description: Who makes it, and what leaves a plant.
+cssclasses:
+  - hub
 ---
 
-**Start here:** [[topics/manufacturing/directory|Directory]] · [[reference/applications|What leaves a plant]] · [[topics/manufacturing/east-asia|East Asia]]
+<div class="start-list">
 
-[[reference/forms]] · [[reference/production]] · [[notice|Notice]]
+1. [Plants](/topics/manufacturing/directory)
+2. [What ships](/reference/applications)
+3. [East Asia](/topics/manufacturing/east-asia)
+
+</div>

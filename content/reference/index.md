@@ -1,18 +1,20 @@
 ---
 title: Reference
-description: Evergreen graphene knowledge — forms, properties, production, uses, standards, safety, papers.
+description: What the words mean, and what has been measured.
+cssclasses:
+  - hub
 ---
 
-This layer is meant to outlive weekly news. Timeline is *when*. Reference is *what the words mean* and *what has actually been measured*.
+<div class="start-list">
 
-- [[reference/forms|Forms of the graphene family]]
-- [[reference/properties|Properties — ideal sheet vs real sample]]
-- [[reference/production|How it is made]]
-- [[reference/applications|Applications (claimed vs shipped)]]
-- [[reference/standards|Standards and quality]]
-- [[reference/safety|Safety, exposure, toxicology]]
-- [[reference/key-papers|Key papers]]
-- [[reference/related-2d|Related 2D materials]]
-- [[reference/misconceptions|Common mix-ups]]
+1. [Forms](/reference/forms)
+2. [Properties](/reference/properties)
+3. [How it is made](/reference/production)
+4. [What ships](/reference/applications)
+5. [Standards](/reference/standards)
+6. [Safety](/reference/safety)
+7. [Key papers](/reference/key-papers)
+8. [Related 2D](/reference/related-2d)
+9. [Mix-ups](/reference/misconceptions)
 
-Also: [[guides/glossary]] · [[guides/site-index]] · [[timeline/index]] · [[guides/evidence-labels]]
+</div>

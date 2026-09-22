@@ -1,10 +1,14 @@
 ---
 title: Research
-description: Papers, preprints, and what they measured.
-tags:
-  - research
+description: Papers and what they measured.
+cssclasses:
+  - hub
 ---
 
-**Start here:** [[topics/research/science-catalogue|Science catalogue]] · [[reference/key-papers|Key papers]] · [[timeline/index|Timeline]]
+<div class="start-list">
 
-Bodies: [[topics/health|Health]]. [[notice|Notice]]
+1. [Science](/topics/research/science-catalogue)
+2. [Key papers](/reference/key-papers)
+3. [History](/history)
+
+</div>
