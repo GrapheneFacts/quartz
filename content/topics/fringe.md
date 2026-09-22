@@ -1,10 +1,16 @@
 ---
 title: Fringe
-description: Circulating plots and slogans, written down so they do not leak into the science pages. Not presented as fact.
-tags:
-  - fringe
+description: Circulating plots and slogans, filed so they do not sit on Science or Medical.
+cssclasses:
+  - hub
 ---
 
-This column exists so a rumor has a shelf that is not History, Science, or Health.
+<div class="start-list">
 
-[[topics/fringe/2026-09-16-go-vaccine-5g-claims|GO / vaccine / 5G]] · [[logs/conspiracies|Conspiracies log]] · [[logs/unsourced|Unsourced]]
+1. [Vaccines and 5G](/topics/fringe/2026-09-16-go-vaccine-5g-claims)
+2. [Spray and weather](/topics/fringe/spray-weather)
+3. [Poison or pencil lead](/topics/fringe/poison-or-graphite)
+4. [Unsourced](/logs/unsourced)
+5. [Full log](/logs/conspiracies)
+
+</div>
