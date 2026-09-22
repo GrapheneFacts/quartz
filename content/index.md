@@ -13,9 +13,8 @@ cssclasses:
 4. [Companies](/topics/finance/listings)
 5. [Medical](/topics/medical)
 6. [Fringe](/topics/fringe)
+7. [Guides](/guides/)
 
 </div>
-
-[Glossary](/guides/glossary) · [Map](/guides/map) · [Index](/guides/site-index) · [Notice](/notice) · [Citations](/citations)
 
 [contact@graphenefacts.org](mailto:contact@graphenefacts.org)
