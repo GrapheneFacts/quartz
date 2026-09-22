@@ -1,8 +1,6 @@
 ---
 title: Industry notes
 description: Dated products and orders.
-cssclasses:
-  - hub
 ---
 
 <div class="start-list">

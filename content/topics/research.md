@@ -1,8 +1,6 @@
 ---
 title: Research
 description: Papers and what they measured.
-cssclasses:
-  - hub
 ---
 
 <div class="start-list">
