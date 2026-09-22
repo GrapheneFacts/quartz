@@ -1,23 +1,25 @@
 ---
 title: GrapheneFacts
-description: Readable archive of graphene-family materials. Start with one of the six doors.
+description: A readable archive of graphene-family materials. Start anywhere. Labels on the claims.
 ---
 
-Short posts: [@GrapheneFacts](https://x.com/GrapheneFacts). Files: [GitHub archive](https://github.com/GrapheneFacts/graphene-archive). Mail: [contact@graphenefacts.org](mailto:contact@graphenefacts.org).
+This is a library, not a feed. Short notes still go on [@GrapheneFacts](https://x.com/GrapheneFacts). The long copy and the sources stay here so they remain readable when the feed moves on.
 
-Not medical, investment, or legal advice. [[guides/evidence-labels|Evidence labels]] on claims.
+Nothing here is medical, investment, or legal advice. Every loaded claim should carry an [[guides/evidence-labels|evidence label]].
 
-## Six doors
+Mail: [contact@graphenefacts.org](mailto:contact@graphenefacts.org). Files: [GitHub archive](https://github.com/GrapheneFacts/graphene-archive).
 
-1. **What it is** — [[reference/index|Reference]] · [[reference/forms|Forms]] · [[guides/glossary|Glossary]]
-2. **When** — [[timeline/index|Timeline]] (pre-chemistry → 2026)
-3. **Who makes it** — [[topics/manufacturing/directory|Manufacturing directory]]
-4. **Money** — [[topics/finance|Finance]] · [[topics/finance/history|History of listings and budgets]]
-5. **Bodies and exposure** — [[topics/health|Health]] · [[topics/health/biomedical-catalogue|Biomedical catalogue]]
-6. **This week** — [[weekly/2026-W38|2026-W38]] · [[posts/holey-graphene-molecular-stencil|Long read]]
+## Start here
 
-Lost? [[guides/map|Directory map]] · every page: [[guides/site-index|Index]]
+1. **What it is** — [[reference/forms|Forms]] · [[guides/glossary|Glossary]] · [[reference/index|Reference desk]]
+2. **When** — [[timeline/index|Timeline]]
+3. **Who makes it** — [[topics/manufacturing/directory|Manufacturing]]
+4. **Money** — [[topics/finance|Finance]]
+5. **Bodies** — [[topics/health/effects|Health effects]] · [[topics/health/biomedical-catalogue|Biomedical]]
+6. **This week** — [[weekly/2026-W38|Weekly 2026-W38]] · [[posts/holey-graphene-molecular-stencil|Long read]]
 
-## Logs (meta)
+Two folders look the same? [[guides/map|Use the map]]. Every page: [[guides/site-index|Index]].
 
-[[logs/theories|Theories]] · [[logs/companies|Companies]] · [[logs/conspiracies|Fringe narratives]] · [[logs/unsourced|Unsourced]]
+## Logs
+
+[[logs/theories|Theories]] · [[logs/companies|Companies]] · [[logs/conspiracies|Fringe]] · [[logs/unsourced|Unsourced]]
