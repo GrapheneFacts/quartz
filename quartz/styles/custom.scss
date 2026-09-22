@@ -28,12 +28,12 @@ article ol > li {
   display: none !important;
 }
 
-html[data-slug="/"] article > h1:first-of-type {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-  clip: rect(0 0 0 0);
+.home-flag {
+  display: none;
+}
+
+article:has(.home-flag) > h1 {
+  display: none !important;
 }
 
 .start-list,
