@@ -5,14 +5,12 @@ tags:
   - guide
 ---
 
-How to walk this site: six doors on [[index|home]]. Official terms: [[notice|Notice]]. Words: [[guides/glossary]]. Choose a folder: [[guides/map]].
+Start on [[index|home]]. Terms: [[notice|Notice]]. Sources: [[citations|Citations]]. Words: [[guides/glossary]]. Choose a folder: [[guides/map]].
 
-## Six doors
-
-- [[timeline/index|Timeline]]
+- [[timeline/index|History]]
 - [[topics/research/science-catalogue|Science]]
-- [[topics/manufacturing|Manufacturing]]
-- [[topics/finance|Finance]]
+- [[topics/manufacturing/directory|Plants]] · [[reference/applications|What ships]]
+- [[topics/finance/listings|Companies]] · [[topics/finance/raises-2015-2025|Raises]]
 - [[topics/health|Health]]
 - [[topics/fringe|Fringe]]
 

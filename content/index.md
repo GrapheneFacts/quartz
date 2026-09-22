@@ -1,17 +1,17 @@
 ---
 title: GrapheneFacts
-description: A readable archive of graphene-family materials. Start anywhere.
+description: A readable archive of graphene-family materials.
 ---
 
-Mail: [contact@graphenefacts.org](mailto:contact@graphenefacts.org). [[notice|Notice]] · [[citations|Citations]]
+[contact@graphenefacts.org](mailto:contact@graphenefacts.org) · [[notice|Notice]] · [[citations|Citations]]
 
-## Six doors
+## Start
 
-- **When** — [[timeline/index|Timeline]]
-- **Lab science** — [[topics/research/science-catalogue|Science catalogue]]
-- **Plants** — [[topics/manufacturing/directory|Directory]] (what leaves a plant: [[reference/applications]])
-- **Money** — [[topics/finance|Finance]]
-- **Bodies** — [[topics/health|Health]]
-- **Rumor column** — [[topics/fringe|Fringe]]
+- [[timeline/index|History]] — year by year
+- [[topics/research/science-catalogue|Science]] — what the papers measured
+- [[topics/manufacturing/directory|Plants and products]] — who makes it, what ships
+- [[topics/finance/listings|Companies]] — tickers and raises, not prices
+- [[topics/health|Health]] — form, dose, route
+- [[topics/fringe|Fringe]] — rumors, labeled and kept apart
 
 [[guides/glossary|Glossary]] · [[guides/map|Map]] · [[guides/site-index|Index]]

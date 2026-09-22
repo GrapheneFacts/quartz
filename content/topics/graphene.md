@@ -1,18 +1,16 @@
 ---
 title: Graphene
-description: The word is several materials. Six doors, then pick a page.
+description: The word is several materials. Pick a path.
 tags:
   - graphene
 ---
 
-Start with [[reference/forms|forms]] if the word is doing too much work.
+If the word is doing too much work, start at [[reference/forms|forms]].
 
-## Six doors
-
-- [[timeline/index|Timeline]]
+- [[timeline/index|History]]
 - [[topics/research/science-catalogue|Science]]
-- [[topics/manufacturing/directory|Directory]] · [[reference/applications|Applications]]
-- [[topics/finance|Finance]]
+- [[topics/manufacturing/directory|Plants and products]] · [[reference/applications|What ships]]
+- [[topics/finance/listings|Companies]] · [[topics/finance/raises-2015-2025|Raises]]
 - [[topics/health|Health]]
 - [[topics/fringe|Fringe]]
 
