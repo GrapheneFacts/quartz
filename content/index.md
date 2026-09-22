@@ -9,9 +9,9 @@ description: A readable archive of graphene-family materials.
 
 - [[timeline/index|History]]
 - [[topics/research/science-catalogue|Science]]
-- [[topics/manufacturing/directory|Plants and products]]
+- [[topics/manufacturing/directory|Manufacturing]]
 - [[topics/finance/listings|Companies]]
-- [[topics/health|Health]]
+- [[topics/medical|Medical]]
 - [[topics/fringe|Fringe]]
 
 [[guides/glossary|Glossary]] · [[guides/map|Map]] · [[guides/site-index|Index]]
