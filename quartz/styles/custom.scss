@@ -17,10 +17,24 @@ article ol > li {
   margin: 0.35rem 0;
 }
 
+/* Date / read-time / newly touched — off on phone and desktop */
+.content-meta,
+.page-meta,
+.meta,
+[data-content-meta],
+.recent-notes,
+.recent,
+section.recent-notes,
 .home .content-meta,
-.hub .content-meta,
-[data-slug="/"] .content-meta {
-  display: none;
+.hub .content-meta {
+  display: none !important;
+}
+
+article header time,
+article .metadata,
+article .dates,
+article .reading-time {
+  display: none !important;
 }
 
 .start-list,
