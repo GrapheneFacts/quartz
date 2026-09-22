@@ -1,195 +1,185 @@
 ---
 title: Glossary
-description: Lexicon of graphene terms on this site, each pointing at the pages that use them.
+description: Short definitions. See-also is the thesaurus.
 tags:
   - guide
   - glossary
 ---
 
-This page is *words*, not a second homepage. Start on [[index|home]]. Labels: [[guides/evidence-labels]]. Pages: [[guides/site-index]]. ISO: [[reference/iso-vocabulary]].
+Parent: [[guides/index|Look up]]. Labels: [[guides/evidence-labels]]. ISO wording: [[reference/iso-vocabulary]].
+
+How to read an entry: headword; what it is; *see also* near-terms; *here* for the page that uses it.
 
 ## A
 
-**ABC trilayer** — Rhombohedral three-layer graphene. Chen 2019 / hBN moiré is this stack, not magic-angle bilayer. [[timeline/2019]]
+**ABC trilayer** *n.* Three graphene sheets stacked rhombohedrally (A-B-C). Not magic-angle bilayer. *See also* MATBG; moiré. *Here* [[timeline/2019]].
 
-**ACS Nano** — Journal; 2015 holey-graphene stencil. [[posts/holey-graphene-molecular-stencil]]
+**AIM** *n.* London Stock Exchange junior market. *See also* ASX; NEEQ; TSX. *Here* [[topics/finance/listings]].
 
-**AIM** — London junior market. AGM 2013, Haydale 2014, Directa 2016. [[topics/finance/raises-2015-2025]]
+**anomalous Hall crystal** *n.* Electronic crystal with a topological Hall response; 2025 twisted-stack report. *See also* moiré. *Here* [[timeline/2025]].
 
-**Anomalous Hall crystal** — Topological electronic crystal; 2025 twisted bilayer–trilayer report. [[timeline/2025]]
-
-**ASX** — Australian exchange. FGR listings and raises. [[topics/finance/raises-2015-2025]]
+**ASX** *n.* Australian Securities Exchange. *See also* AIM. *Here* [[topics/finance/listings]].
 
 ## B
 
-**Band / exposure band** — Hygiene range (here 10 µg/m³), not an OSHA PEL. [[topics/policy/2026-09-16-niosh-graphene-exposure]]
+**band** *(exposure)* *n.* A hygiene working range, not an OSHA PEL. On this site the cited figure is often 10 µg/m³. *See also* PEL; NIOSH. *Here* [[topics/health/effects]].
 
-**Boehm** — Hanns-Peter Boehm; 1962 reduced-oxide monolayer; later naming. [[timeline/1962]]
+**Boehm** *n.* Hanns-Peter Boehm; 1962 reduced-oxide monolayer work; later naming. *See also* Brodie; graphene. *Here* [[timeline/1962]].
 
-**Brodie** — 1859 graphite oxidation. [[timeline/before-1900]]
+**Brodie** *n.* 1859 oxidation of graphite; ancestor of GO recipes. *See also* GO; graphite oxide. *Here* [[timeline/before-1900]].
 
-**Brillouin zone** — Reciprocal cell; Dirac points at K, K′. [[timeline/1947]]
+**Brillouin zone** *n.* The reciprocal-space cell of a crystal. Graphene Dirac points sit at its K, K′ corners. *See also* Dirac point. *Here* [[timeline/1947]].
 
 ## C
 
-**Charmgraphene** — Korea R2R CVD + flake; Suwon Venture Valley 2. [[topics/manufacturing/charmgraphene]]
-
-**CVD** — Chemical vapor deposition; often Cu then transfer. [[timeline/2011]] · [[topics/manufacturing/graphenea]]
+**CVD** *n.* Chemical vapor deposition. Commonly carbon on copper, then transfer. *See also* R2R CVD; SiC epitaxy; LPE. *Here* [[topics/manufacturing/graphenea]].
 
 ## D
 
-**Dirac point / Dirac fermion** — Linear touching bands. Wallace 1947; 2005 experiments. [[timeline/1947]]
+**Dirac point** *n.* Where graphene’s conduction and valence bands touch in a linear cone. *See also* Brillouin zone; monolayer. *Here* [[timeline/1947]].
 
 ## E
 
-**eCOphite** — COnovate graphene-monoxide anode additive. [[topics/manufacturing/conovate]]
+**eCOphite** *n.* COnovate product: graphene *monoxide* as an anode additive. Not GO. *See also* GO; rGO. *Here* [[topics/manufacturing/conovate]].
 
-**Entitlement / SPP** — Pro-rata or share-purchase-plan raise. FGR 2020 entitlements; FGR 2023 SPP. [[topics/finance/raises-2015-2025]]
+**entitlement** *n.* A pro-rata share issue. *See also* SPP. *Here* [[topics/finance/raises-2015-2025]].
 
-**Evidence label** — Well-supported / Preliminary / Unverified / Fringe.
+**evidence label** *n.* Confidence tag on a claim: Well-supported, Preliminary, Unverified, Fringe. Folder is for browsing; the label is for confidence. *See also* Fringe; Unverified. *Here* [[guides/evidence-labels]].
 
 ## F
 
-**f_T** — FET current-gain cut-off. IBM 100 GHz (2010) and 155 GHz (2011) are f_T, not phone SoCs. [[timeline/2010]] · [[timeline/2011]]
+**f_T** *n.* FET current-gain cut-off frequency. IBM 100 GHz (2010) and 155 GHz (2011) are f_T figures, not phone chips. *See also* FET Flagship. *Here* [[timeline/2011]].
 
-**FET Flagship** — EU FET Flagship; Graphene named 28 Jan 2013; Core 1 Apr 2016. [[timeline/2013]] · [[timeline/2016]]
+**FET Flagship** *n.* EU research programme; Graphene named 28 Jan 2013. *Here* [[timeline/2013]].
 
-**Few-layer graphene (FLG)** — A few sheets, often ~2–10. [[reference/iso-vocabulary]]
+**few-layer graphene** *(FLG)* *n.* A few atomic sheets, often about 2–10. *See also* GNP; monolayer; GR2M. *Here* [[reference/iso-vocabulary]].
 
-**Fringe** — Conspiracy-style narrative, labeled. [[topics/fringe]]
+**Fringe** *n.* A plot-style narrative logged so it does not sit on Science or Medical as fact. *See also* Unverified. *Antonym-ish* Well-supported. *Here* [[topics/fringe]].
 
 ## G
 
-**G+** — Directa Plus product family. [[topics/manufacturing/directa-plus]]
+**G+** *n.* Directa Plus nanoplatelet family (powders, pastes, membranes, GRAFYSORBER). *See also* GNP; PureGRAPH; GrapheneBlack. *Here* [[topics/industry/directa-gplus]].
 
-**GNP / nanoplatelet** — Thicker stack sold as graphene.
+**GNP** *(graphene nanoplatelet)* *n.* A thicker stack sold as “graphene.” *See also* FLG; monolayer; GR2M.
 
-**GO (graphene oxide)** — Oxidized sheets from graphite oxide. Not a 2004 flake. [[topics/health/form-route]]
+**GO** *(graphene oxide)* *n.* Oxidized sheets from graphite oxide. Not a 2004 peeled flake. *See also* rGO; graphite oxide; Brodie. *Here* [[topics/health/form-route]].
 
-**GO laminate / Nair membrane** — Stacked GO that can be helium-tight and water-fast (Nair 2012; Abraham 2017 confined *d*). [[timeline/2012]] · [[timeline/2017]]
+**GO laminate** *n.* Stacked GO that can be helium-tight and water-fast (Nair 2012; Abraham 2017). *See also* GO. *Here* [[timeline/2012]].
 
-**GR2M** — Graphene-related 2D material; ISO/TS 80004-13:**2024** umbrella. [[reference/iso-vocabulary]]
+**GR2M** *n.* Graphene-related 2D material; ISO/TS 80004-13:2024 umbrella term. *See also* graphene; GNP; GO. *Here* [[reference/iso-vocabulary]].
 
-**Graphene** — One-atom honeycomb carbon. Name mid-1980s; 2004 isolation-and-gate. [[timeline/2004]]
+**graphene** *n.* One-atom honeycomb carbon. Name mid-1980s; isolation-and-gate 2004. *See also* GR2M; graphite; monolayer. *Here* [[timeline/2004]].
 
-**GrapheneBlack** — NanoXplore powder mark. [[topics/manufacturing/nanoxplore-saint-laurent]]
+**GrapheneBlack** *n.* NanoXplore powder mark. *See also* PureGRAPH; G+. *Here* [[topics/manufacturing/nanoxplore-saint-laurent]].
 
-**Graphene Square** — Korea CVD film. Pohang plant. [[topics/manufacturing/graphene-square]]
+**graphite** *n.* The 3D parent crystal. *See also* graphene; graphite oxide.
 
-**Graphite / graphite oxide** — 3D parent; Brodie oxidized parent of GO.
+**graphite oxide** *n.* Bulk oxidized graphite; parent of GO after exfoliation. *See also* Brodie; GO.
 
 ## H
 
-**hBN** — Hexagonal boron nitride. Dean 2010 encapsulation; Britnell 2012 barrier. [[timeline/2010]] · [[timeline/2012]]
+**hBN** *n.* Hexagonal boron nitride. Used to encapsulate graphene (Dean 2010) and as a tunnel barrier (Britnell 2012). *See also* TMDC. *Here* [[timeline/2010]].
 
-**Haydale** — Plasma-functionalized carbon; AIM 2014. [[topics/manufacturing/haydale]]
-
-**Holey graphene** — Sheet with engineered holes. [[posts/holey-graphene-molecular-stencil]]
+**holey graphene** *n.* A sheet with engineered holes. *See also* graphene. *Here* [[posts/holey-graphene-molecular-stencil]].
 
 ## I
 
-**INBRAIN** — Cortical interface; NCT06368310.
+**INBRAIN** *n.* Graphene cortical interface programme; trial NCT06368310. *See also* Bio-mechanical. *Here* [[topics/medical/biomechanical]].
 
-**ISO/TS 21356-1:2021** — Structural characterization of graphene from powders and dispersions.
+**ISO/TS 21356-1:2021** *n.* Structural characterization of graphene from powders and dispersions.
 
-**ISO/TS 80004-13** — Vocabulary. **2017** first edition; **2024** second (GR2M). [[timeline/2017]] · [[timeline/2024]]
+**ISO/TS 80004-13** *n.* Vocabulary. 2017 first edition; 2024 second (GR2M). *See also* GR2M. *Here* [[timeline/2024]].
 
-## K
+## J
 
-**Knano** — Xiamen powder house. [[topics/manufacturing/knano]]
+**JustHeat** *n.* Haydale printed graphene-ink underfloor panel. Install guide: 600 × 530 mm, 62 W at 48 V. *See also* SETTF; R2R CVD. *Here* [[topics/industry/justheat]].
 
 ## L
 
-**LeaderNano** — Jining. [[topics/manufacturing/leadernano]]
-
-**LPE** — Liquid-phase exfoliation.
+**LPE** *n.* Liquid-phase exfoliation. *See also* CVD; mechanical cleavage.
 
 ## M
 
-**Magic angle** — Twist (~1.1° bilayer) where flat bands appear. Cao 2018. [[timeline/2018]]
+**magic angle** *n.* Twist (~1.1° in bilayer) where flat bands appear (Cao 2018). *See also* MATBG; twistronics; moiré. *Here* [[timeline/2018]].
 
-**Masterbatch** — Graphene pre-dispersed so plants skip dry powder.
+**masterbatch** *n.* Graphene pre-dispersed in a carrier so a plant need not handle dry powder. *See also* GNP.
 
-**MATBG** — Magic-angle twisted bilayer graphene.
+**MATBG** *n.* Magic-angle twisted bilayer graphene. *See also* MATTG; TDBG; magic angle.
 
-**MATTG** — Magic-angle twisted trilayer graphene. Pauli-limit paper 2021. [[timeline/2021]]
+**MATTG** *n.* Magic-angle twisted trilayer graphene. *See also* MATBG; Pauli limit. *Here* [[timeline/2021]].
 
-**Mechanical cleavage / Scotch tape** — 2004 Manchester peel.
+**mechanical cleavage** *n.* The 2004 Manchester peel (“Scotch tape”). *See also* CVD; LPE.
 
-**Mermin–Wagner** — Often mis-used to say free 2D crystals cannot exist. [[timeline/1963-2003]]
+**Mermin–Wagner** *n.* Theorem often mis-used to say free-standing 2D crystals cannot exist. *Here* [[timeline/1963-2003]].
 
-**Moiré** — Interference lattice from a twist or mismatch.
+**moiré** *n.* Interference lattice from a twist or a lattice mismatch. *See also* magic angle; hBN.
 
-**Monolayer** — One atomic sheet.
-
-**Moxi / Chongqing Graphene** — Jiulongpo CVD sheets. [[topics/manufacturing/moxi]]
+**monolayer** *n.* One atomic sheet. *See also* FLG; GNP; graphene.
 
 ## N
 
-**NCT03659864** — Andrews 2024 GO inhalation. [[topics/health/form-route]]
+**NCT03659864** *n.* Controlled GO inhalation study (Andrews 2024). *Here* [[topics/health/form-route]].
 
-**NCT06368310** — INBRAIN first-in-human.
+**NCT06368310** *n.* INBRAIN first-in-human cortical interface. *Here* [[topics/medical/biomechanical]].
 
-**NEEQ** — China OTC board. Sixth Element 831190; 2D Carbon 833608.
+**NEEQ** *n.* China over-the-counter board. Sixth Element 831190; 2D Carbon 833608. *See also* AIM; ASX. *Here* [[topics/finance/listings]].
 
-**NIOSH** — US workplace sampling.
+**NIOSH** *n.* U.S. workplace-sampling body. *See also* band; PEL. *Here* [[topics/health/effects]].
 
 ## P
 
-**Pauli limit** — Conventional cap on in-plane field for spin-singlet SC. MATTG 2021 exceeds it in that report. [[timeline/2021]]
+**Pauli limit** *n.* Conventional cap on in-plane field for spin-singlet superconductivity. A 2021 MATTG report exceeds it. *See also* MATTG. *Here* [[timeline/2021]].
 
-**PEL** — OSHA limit. 10 µg/m³ here is a **band**, not a PEL.
+**PEL** *n.* OSHA permissible exposure limit. The 10 µg/m³ figure on this site is a *band*, not a PEL. *See also* band.
 
-**Photodetector (graphene)** — 2012 cavity, 2013 waveguide cluster, 2014 broadband/THz. Lab parts. [[timeline/2013]] · [[timeline/2014]]
+**Preliminary** *adj.* Evidence label: preprint, company lab, pilot, or company-stated tonnes. *See also* Well-supported; Unverified.
 
-**PureGRAPH** — First Graphene product name. [[topics/manufacturing/first-graphene-henderson]]
+**PureGRAPH** *n.* First Graphene nanoplatelet mark. *See also* G+; GrapheneBlack. *Here* [[topics/manufacturing/first-graphene-henderson]].
 
 ## R
 
-**rGO** — Reduced graphene oxide.
+**rGO** *n.* Reduced graphene oxide. *See also* GO.
 
-**REACH** — EU chemical registration.
+**REACH** *n.* EU chemical-registration regime.
 
-**R2R CVD** — Roll-to-roll film growth. Charmgraphene / 2D Carbon language.
+**R2R CVD** *n.* Roll-to-roll film growth. *See also* CVD. *Here* [[topics/manufacturing/charmgraphene]].
 
 ## S
 
-**SiC epitaxy** — Heat SiC, Si leaves. Van Bommel 1975. [[timeline/1963-2003]]
+**SETTF** *n.* Haydale Super-Efficient Thermal Transfer Fluid. Partner-test language; Preliminary. *See also* JustHeat. *Here* [[topics/industry/haydale-settf]].
 
-**Sixth Element** — Changzhou GO/powder. [[topics/manufacturing/sixth-element]]
+**SiC epitaxy** *n.* Heat silicon carbide until silicon leaves and carbon reorders. Van Bommel 1975. *See also* CVD. *Here* [[timeline/1963-2003]].
 
-**SPP** — Share purchase plan. FGR Dec 2023.
+**SPP** *n.* Share purchase plan. *See also* entitlement. *Here* [[topics/finance/raises-2015-2025]].
 
-**Superfluid stiffness** — Ease of Cooper-pair current; 2025 MATBG measurement. [[timeline/2025]]
+**superfluid stiffness** *n.* How easily Cooper pairs carry current; 2025 MATBG measurement. *See also* MATBG. *Here* [[timeline/2025]].
 
 ## T
 
-**10C** — Charge in ~6 minutes. GMG cell talk.
+**10C** *n.* Charge in about six minutes. GMG cell talk. *Here* [[topics/industry/2026-09-09-gmg-battery-cycling]].
 
-**TDBG** — Twisted double bilayer graphene. SC with WSe₂, 2023. [[timeline/2023]]
+**TDBG** *n.* Twisted double bilayer graphene. *See also* MATBG; MATTG. *Here* [[timeline/2023]].
 
-**TMDC** — MoS₂, WSe₂ and cousins.
+**THERMAL-XR** *n.* GMG graphene-enhanced HVAC-coil coating. *Here* [[topics/industry/thermal-xr]].
 
-**Twistronics** — Device physics from a controlled twist. [[timeline/2018]]
+**TMDC** *n.* Transition-metal dichalcogenide (MoS₂, WSe₂, …). *See also* hBN; WSe₂ proximity.
 
-**2D Carbon** — Changzhou film house. [[topics/manufacturing/2d-carbon]]
+**twistronics** *n.* Device physics from a controlled twist. *See also* magic angle; moiré. *Here* [[timeline/2018]].
 
 ## U
 
-**Unverified** — No solid primary. [[guides/evidence-labels]]
+**Unverified** *adj.* Evidence label: no solid primary. Not automatically Fringe. *See also* Fringe; Preliminary. *Here* [[logs/unsourced]].
 
 ## W
 
-**Wallace** — P. R. Wallace; 1947 bands. [[timeline/1947]]
+**Wallace** *n.* P. R. Wallace; 1947 graphite bands. *Here* [[timeline/1947]].
 
-**Well-supported** — Paper, regulator text, or confirmed order.
+**Well-supported** *adj.* Evidence label: paper, regulator text, or confirmed order. *See also* Preliminary.
 
-**WSe₂ proximity** — Dichalcogenide next to graphene that can stabilize or boost SC (2023 papers). [[timeline/2023]]
-
-## X
-
-**XFNANO** — Nanjing catalogue / Pukou plant. [[topics/manufacturing/xfnano]]
+**WSe₂ proximity** *n.* A dichalcogenide layer next to graphene that can stabilize or boost superconductivity in named 2023 papers. *See also* TMDC; TDBG. *Here* [[timeline/2023]].
 
 ## Z
 
-**ZGNR** — Zigzag-edge graphene nanoribbon. Ruffieux/Cai 2016. [[timeline/2016]]
+**ZenGUARD** *n.* Zentek coating on filter media and PPE. *Here* [[topics/industry/zenguard]].
+
+**ZGNR** *n.* Zigzag-edge graphene nanoribbon. Ruffieux/Cai 2016. *Here* [[timeline/2016]].

@@ -13,7 +13,7 @@ cssclasses:
 4. [Companies](/topics/finance/listings)
 5. [Medical](/topics/medical)
 6. [Fringe](/topics/fringe)
-7. [Guides](/guides/)
+7. [Look up](/guides/)
 
 </div>
 
