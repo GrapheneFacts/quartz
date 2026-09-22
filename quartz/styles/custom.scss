@@ -32,13 +32,17 @@ article ol > li {
   display: none !important;
 }
 
-article:has(.home-flag) h1 {
-  display: none !important;
-  height: 0 !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  overflow: hidden !important;
-  font-size: 0 !important;
+body[data-slug=""],
+body[data-slug="index"] {
+  article h1 {
+    display: none !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: hidden !important;
+    font-size: 0 !important;
+    line-height: 0 !important;
+  }
 }
 
 .start-list,
