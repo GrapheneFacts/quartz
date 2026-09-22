@@ -3,15 +3,15 @@ title: GrapheneFacts
 description: A readable archive of graphene-family materials. Start anywhere.
 ---
 
-Mail: [contact@graphenefacts.org](mailto:contact@graphenefacts.org). Official terms: [[notice|Notice]].
+Mail: [contact@graphenefacts.org](mailto:contact@graphenefacts.org). [[notice|Notice]] · [[citations|Citations]]
 
 ## Six doors
 
 - **When** — [[timeline/index|Timeline]]
 - **Lab science** — [[topics/research/science-catalogue|Science catalogue]]
-- **Plants** — [[topics/manufacturing|Manufacturing]]
+- **Plants** — [[topics/manufacturing/directory|Directory]] (what leaves a plant: [[reference/applications]])
 - **Money** — [[topics/finance|Finance]]
 - **Bodies** — [[topics/health|Health]]
 - **Rumor column** — [[topics/fringe|Fringe]]
 
-Words: [[guides/glossary|Glossary]]. Folders: [[guides/map|Map]]. Every page: [[guides/site-index|Index]].
+[[guides/glossary|Glossary]] · [[guides/map|Map]] · [[guides/site-index|Index]]

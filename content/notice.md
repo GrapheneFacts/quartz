@@ -5,7 +5,7 @@ tags:
   - notice
 ---
 
-This is the only official disclaimer and transparency page for graphenefacts.org. Other pages should not repeat it.
+This is the only official disclaimer and transparency page for graphenefacts.org. Other pages should not repeat it. Sources used to build pages: [[citations|Citations]].
 
 ## What this site is
 
