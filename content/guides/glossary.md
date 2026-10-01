@@ -122,6 +122,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **NCT06368310** *n.* INBRAIN first-in-human cortical interface. *Here* [[topics/medical/biomechanical]].
 
+**NSPP** *n.* Non-thermal atmospheric nanosecond pulsed plasma. Texas A&M / LTEOIL route that grows graphene oxide at a methane–water interface. *See also* GO; CVD; Hummers. *Here* [[posts/nspp-plasma-water-go]].
+
 **NEEQ** *n.* China over-the-counter board. Sixth Element 831190; 2D Carbon 833608. *See also* AIM; ASX. *Here* [[topics/finance/listings]].
 
 **NIOSH** *n.* U.S. workplace-sampling body. *See also* band; PEL. *Here* [[topics/health/effects]].
