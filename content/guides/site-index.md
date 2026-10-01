@@ -21,7 +21,7 @@ Parent: [[guides/index|Guides]]. Terms: [[notice|Notice]]. Sources: [[citations|
 
 ## Posts and weeklies
 
-- [[posts/holey-graphene-molecular-stencil]] · [[weekly/2026-W38]]
+- [[posts/holey-graphene-molecular-stencil]] · [[posts/nspp-plasma-water-go]] · [[weekly/2026-W38]]
 
 ## Timeline
 
