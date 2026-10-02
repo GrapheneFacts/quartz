@@ -32,6 +32,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 ## C
 
+**Campra report** *n.* Unofficial 2021 micro-Raman note by Pablo Campra Madrid on a courier vial he said was untraced. University of Almería did not endorse it. Not a peer-reviewed finding of GO in authorized COVID-19 vaccines. *See also* La Quinta Columna; GO; Fringe. *Here* [[topics/fringe/2026-09-16-go-vaccine-5g-claims]].
+
 **CVD** *n.* Chemical vapor deposition. Commonly carbon on copper, then transfer. *See also* R2R CVD; SiC epitaxy; LPE. *Here* [[topics/manufacturing/graphenea]].
 
 ## D
