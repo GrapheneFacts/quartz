@@ -19,3 +19,6 @@ Recycled claims that COVID vaccines contain graphene oxide and/or that GO can be
 See [[weekly/2026-W38]] and [[recurrence/log]].
 
 Archive file: [topics/fringe/2026-09-16-go-vaccine-5g-claims.md](https://github.com/GrapheneFacts/graphene-archive/blob/main/topics/fringe/2026-09-16-go-vaccine-5g-claims.md)
+## Recurrence, 1–2 Oct 2026
+
+X posts again paired magnet-on-skin clips with “graphene oxide confirmed,” and named La Quinta Columna / 6G. No new traced vial. Same Fringe label. See [[guides/glossary]] entries Campra report and La Quinta Columna.
