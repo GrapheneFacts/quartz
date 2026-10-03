@@ -42,12 +42,15 @@ article ol > li {
 .note-properties,
 .recent-notes,
 .recent,
-.home-flag {
+.home-flag,
+article h2[id^="title-"] {
   display: none !important;
 }
 
-article h2[id^="title-"],
-article hr:first-of-type {
+/* Quartz is printing the YAML block as the first paragraph, tag list, and rule */
+article .markdown-rendered > p:first-child,
+article .markdown-rendered > ul:first-of-type,
+article .markdown-rendered > hr:first-of-type {
   display: none !important;
   height: 0 !important;
   margin: 0 !important;
