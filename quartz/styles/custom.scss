@@ -15,6 +15,7 @@ article a.internal-link {
   box-shadow: none;
   padding: 0;
   border-radius: 0;
+  overflow-wrap: anywhere;
 }
 
 a.heading-anchor,
@@ -47,16 +48,10 @@ article h2[id^="title-"] {
   display: none !important;
 }
 
-/* Quartz is printing the YAML block as the first paragraph, tag list, and rule */
 article .markdown-rendered > p:first-child,
 article .markdown-rendered > ul:first-of-type,
 article .markdown-rendered > hr:first-of-type {
   display: none !important;
-  height: 0 !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  border: 0 !important;
-  overflow: hidden !important;
 }
 
 @media (max-width: 800px) {
