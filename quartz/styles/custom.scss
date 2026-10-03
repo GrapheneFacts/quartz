@@ -8,6 +8,22 @@ article {
   max-width: 42rem;
 }
 
+article a,
+article a.internal-link {
+  color: var(--secondary);
+  background: none;
+  box-shadow: none;
+  padding: 0;
+  border-radius: 0;
+}
+
+a.heading-anchor,
+article h1 a.internal-link[href^="#"],
+article h2 a.internal-link[href^="#"],
+article h3 a.internal-link[href^="#"] {
+  display: none !important;
+}
+
 article ol {
   padding-left: 1.25rem;
 }
@@ -16,13 +32,6 @@ article ol > li {
   margin: 0.45rem 0;
   font-size: 1.12rem;
   line-height: 1.45;
-}
-
-article a.internal-link {
-  background: none;
-  box-shadow: none;
-  padding: 0;
-  border-radius: 0;
 }
 
 .content-meta,
@@ -37,13 +46,13 @@ article a.internal-link {
   display: none !important;
 }
 
-body[data-slug="index"] article h1,
-body[data-slug="index"] article h2#title-graphenefacts,
-body[data-slug="index"] article hr:first-of-type {
+article h2[id^="title-"],
+article hr:first-of-type {
   display: none !important;
   height: 0 !important;
   margin: 0 !important;
   padding: 0 !important;
+  border: 0 !important;
   overflow: hidden !important;
 }
 
