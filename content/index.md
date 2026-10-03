@@ -1,7 +1,3 @@
----
-title: "GrapheneFacts"
----
-
 <div class="home-flag"></div>
 
 <div class="start-list">
@@ -13,6 +9,7 @@ title: "GrapheneFacts"
 5. [Medical](/topics/medical)
 6. [Fringe](/topics/fringe)
 7. [Look up](/guides/)
+8. [Late September catch-up](/topics/industry/2026-09-late-catchup)
 
 </div>
 
