@@ -29,6 +29,7 @@ export default (() => {
     const manifestPath = joinSegments(baseDir, "static/site.webmanifest")
     const svgIconPath = joinSegments(baseDir, "static/icon.svg")
     const swPath = joinSegments(baseDir, "static/sw.js")
+    const stripPath = joinSegments(baseDir, "static/strip-yaml.js")
 
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
@@ -97,6 +98,7 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        <script src={stripPath} />
         <script
           dangerouslySetInnerHTML={{
             __html:
