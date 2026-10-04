@@ -96,9 +96,17 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **JustHeat** *n.* Haydale printed graphene-ink underfloor panel. Install guide: 600 × 530 mm, 62 W at 48 V. *See also* SETTF; R2R CVD. *Here* [[topics/industry/justheat]].
 
+## K
+
+**K-sputtering** *n.* KERI direct-current sputter process reported 27 Sep 2026. Grows aligned graphene through multilayer graphite on a substrate at room temperature, without a transfer heat step. Institute release; not an ISO term. *See also* CVD; LPE.
+
 ## L
 
+**La Quinta Columna** *n.* Spanish site that commissioned the 2021 Campra courier-vial note. Distribution node for the GO-in-vaccine plot, not a metrology lab. *See also* Campra report; Fringe. *Here* [[topics/fringe/2026-09-16-go-vaccine-5g-claims]].
+
 **LPE** *n.* Liquid-phase exfoliation. *See also* CVD; mechanical cleavage.
+
+**LSG** *n.* Large-area suspended graphene. Few-nanometer free-standing film used as a laser-ion target (Osaka, PTEP, 2 Oct 2026). Proton surfing is the team’s name for the long ride on the moving field. *See also* graphene; monolayer.
 
 ## M
 
@@ -136,9 +144,11 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **PEL** *n.* OSHA permissible exposure limit. The 10 µg/m³ figure on this site is a *band*, not a PEL. *See also* band.
 
+**Peltyr** *n.* Vector Companies printed heat-flux sensor line launched Sep 2026 using First Graphene PureGRAPH. Thirty-six-month partner agreement; purchase orders are separate. *See also* PureGRAPH.
+
 **Preliminary** *adj.* Evidence label: preprint, company lab, pilot, or company-stated tonnes. *See also* Well-supported; Unverified.
 
-**PureGRAPH** *n.* First Graphene nanoplatelet mark. *See also* G+; GrapheneBlack. *Here* [[topics/manufacturing/first-graphene-henderson]].
+**PureGRAPH** *n.* First Graphene nanoplatelet mark. *See also* G+; GrapheneBlack; Peltyr. *Here* [[topics/manufacturing/first-graphene-henderson]].
 
 ## R
 
