@@ -19,6 +19,7 @@ Parent: [[guides/index|Guides]]. Terms: [[notice|Notice]]. Sources: [[citations|
 - [[reference/index]] · [[reference/forms]] · [[reference/properties]] · [[reference/production]] · [[reference/applications]]
 - [[reference/standards]] · [[reference/iso-vocabulary]] · [[reference/safety]] · [[reference/key-papers]] · [[reference/related-2d]] · [[reference/misconceptions]]
 - Week of 28 Sep–4 Oct 2026 names, definitions only: [[guides/glossary]] (K-sputtering, LSG, Peltyr, La Quinta Columna).
+- 7 Oct 2026 names, definitions only: [[guides/glossary]] (LOOP, Sharjah Graphene Park, Fractal Graphene Paste, prepreg). No new public note.
 
 ## Posts and weeklies
 
