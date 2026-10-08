@@ -36,6 +36,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **CVD** *n.* Chemical vapor deposition. Commonly carbon on copper, then transfer. *See also* R2R CVD; SiC epitaxy; LPE. *Here* [[topics/manufacturing/graphenea]].
 
+**CSD** *(cortical spreading depolarization)* *n.* Slow, near-complete depolarization wave across cortex. Flaherty et al., *Brain* 2026, used graphene transistor arrays to tie waveform shape to perfusion in mouse stroke models. Not a treatment. *See also* gSGFET; INBRAIN. *Here* [[posts/gsgfet-stroke-csd-2026]].
+
 ## D
 
 **Dirac point** *n.* Where graphene’s conduction and valence bands touch in a linear cone. *See also* Brillouin zone; monolayer. *Here* [[timeline/1947]].
@@ -73,6 +75,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 **GR2M** *n.* Graphene-related 2D material; ISO/TS 80004-13:2024 umbrella term. *See also* graphene; GNP; GO. *Here* [[reference/iso-vocabulary]].
 
 **graphene** *n.* One-atom honeycomb carbon. Name mid-1980s; isolation-and-gate 2004. *See also* GR2M; graphite; monolayer. *Here* [[timeline/2004]].
+
+**gSGFET** *n.* Graphene solution-gated field-effect transistor. Electrolyte is the gate; channel current reports local potential, including infraslow. CVD graphene on polyimide in the IMB-CNM / ICN2 stack. Not GO. *See also* CVD; INBRAIN; CSD. *Here* [[posts/gsgfet-stroke-csd-2026]].
 
 **GrapheneBlack** *n.* NanoXplore powder mark. *See also* PureGRAPH; G+. *Here* [[topics/manufacturing/nanoxplore-saint-laurent]].
 
@@ -123,6 +127,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 **MATTG** *n.* Magic-angle twisted trilayer graphene. *See also* MATBG; Pauli limit. *Here* [[timeline/2021]].
 
 **mechanical cleavage** *n.* The 2004 Manchester peel (“Scotch tape”). *See also* CVD; LPE.
+
+**MINIGRAPH** *n.* EIC project (INBRAIN, Nanoflex Robotics, ETH Zürich) on magnetically steered ultra-thin graphene neural probes. 7 Oct 2026 completion press: bench and large animal, not a human implant report. *See also* INBRAIN; gSGFET. *Here* [[posts/gsgfet-stroke-csd-2026]].
 
 **Mermin–Wagner** *n.* Theorem often mis-used to say free-standing 2D crystals cannot exist. *Here* [[timeline/1963-2003]].
 
