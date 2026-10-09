@@ -34,6 +34,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **Campra report** *n.* Unofficial 2021 micro-Raman note by Pablo Campra Madrid on a courier vial he said was untraced. University of Almería did not endorse it. Not a peer-reviewed finding of GO in authorized COVID-19 vaccines. *See also* La Quinta Columna; GO; Fringe. *Here* [[topics/fringe/2026-09-16-go-vaccine-5g-claims]].
 
+**chemtrail GO claim** *n.* Recurring claim that persistent aircraft trails are graphene-oxide sprays, often tied to a vaccine fill and 5G/6G activation. Posts on 7–9 Oct 2026 added no lot assay or altitude sample. *See also* Campra report; La Quinta Columna; Fringe; GO. *Here* [[topics/fringe/2026-09-16-go-vaccine-5g-claims]].
+
 **CVD** *n.* Chemical vapor deposition. Commonly carbon on copper, then transfer. *See also* R2R CVD; SiC epitaxy; LPE. *Here* [[topics/manufacturing/graphenea]].
 
 **CSD** *(cortical spreading depolarization)* *n.* Slow, near-complete depolarization wave across cortex. Flaherty et al., *Brain* 2026, used graphene transistor arrays to tie waveform shape to perfusion in mouse stroke models. Not a treatment. *See also* gSGFET; INBRAIN. *Here* [[posts/gsgfet-stroke-csd-2026]].
@@ -75,6 +77,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 **GR2M** *n.* Graphene-related 2D material; ISO/TS 80004-13:2024 umbrella term. *See also* graphene; GNP; GO. *Here* [[reference/iso-vocabulary]].
 
 **graphene** *n.* One-atom honeycomb carbon. Name mid-1980s; isolation-and-gate 2004. *See also* GR2M; graphite; monolayer. *Here* [[timeline/2004]].
+
+**graphene hydroxide** *n.* Not an ISO term. Label used in 2021 videos after the GO-in-vial claim. Not on authorized COVID-19 vaccine ingredient lists. *See also* GO; Campra report; Fringe. *Here* [[topics/fringe/2026-09-16-go-vaccine-5g-claims]].
 
 **gSGFET** *n.* Graphene solution-gated field-effect transistor. Electrolyte is the gate; channel current reports local potential, including infraslow. CVD graphene on polyimide in the IMB-CNM / ICN2 stack. Not GO. *See also* CVD; INBRAIN; CSD. *Here* [[posts/gsgfet-stroke-csd-2026]].
 
