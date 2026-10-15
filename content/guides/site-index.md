@@ -22,10 +22,11 @@ Parent: [[guides/index|Guides]]. Terms: [[notice|Notice]]. Sources: [[citations|
 - 7 Oct 2026 names, definitions only: [[guides/glossary]] (LOOP, Sharjah Graphene Park, Fractal Graphene Paste, prepreg). No new public note.
 - 8 Oct 2026 names: [[guides/glossary]] (gSGFET, CSD, MINIGRAPH). Note: [[posts/gsgfet-stroke-csd-2026]].
 - 9 Oct 2026 names: [[guides/glossary]] (chemtrail GO claim, graphene hydroxide). No new public note. Recurrence of [[topics/fringe/2026-09-16-go-vaccine-5g-claims]].
+- 15 Oct 2026 names: [[guides/glossary]] (clasping folds, remote moiré modulation, gate-induced layer sliding). Note: [[posts/clasping-folds-graphene-films-2026]].
 
 ## Posts and weeklies
 
-- [[posts/holey-graphene-molecular-stencil]] · [[posts/nspp-plasma-water-go]] · [[posts/gsgfet-stroke-csd-2026]] · [[weekly/2026-W38]]
+- [[posts/holey-graphene-molecular-stencil]] · [[posts/nspp-plasma-water-go]] · [[posts/gsgfet-stroke-csd-2026]] · [[posts/clasping-folds-graphene-films-2026]] · [[weekly/2026-W38]]
 
 ## Timeline
 

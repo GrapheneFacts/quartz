@@ -36,6 +36,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **chemtrail GO claim** *n.* Recurring claim that persistent aircraft trails are graphene-oxide sprays, often tied to a vaccine fill and 5G/6G activation. Posts on 7–9 Oct 2026 added no lot assay or altitude sample. *See also* Campra report; La Quinta Columna; Fringe; GO. *Here* [[topics/fringe/2026-09-16-go-vaccine-5g-claims]].
 
+**clasping folds** *n.* Interlayer mechanical buckle or fold-lock structure in multilayer graphene oxide films. Wang, Liao, Gao et al., Nature 2026: surface-folded multilayer GO flakes assemble into clasping films with reported 2.9 GPa strength, 84.5 MJ m⁻³ toughness, 5% elastic strain. Breaks flat-stack strength-toughness trade-off. *See also* GO; graphene. *Here* [[posts/clasping-folds-graphene-films-2026]].
+
 **CVD** *n.* Chemical vapor deposition. Commonly carbon on copper, then transfer. *See also* R2R CVD; SiC epitaxy; LPE. *Here* [[topics/manufacturing/graphenea]].
 
 **CSD** *(cortical spreading depolarization)* *n.* Slow, near-complete depolarization wave across cortex. Flaherty et al., *Brain* 2026, used graphene transistor arrays to tie waveform shape to perfusion in mouse stroke models. Not a treatment. *See also* gSGFET; INBRAIN. *Here* [[posts/gsgfet-stroke-csd-2026]].
@@ -67,6 +69,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 ## G
 
 **G+** *n.* Directa Plus nanoplatelet family (powders, pastes, membranes, GRAFYSORBER). *See also* GNP; PureGRAPH; GrapheneBlack. *Here* [[topics/industry/directa-gplus]].
+
+**gate-induced layer sliding** *n.* Voltage-driven sliding of graphene layers that switches stacking (Bernal-dominant to rhombohedral-Bernal mixed) and nonvolatily toggles magnetism. Brandon, Yasuda et al., Nature Nanotechnology 14 Oct 2026. Related to slidetronics. *See also* rhombohedral stacking; Bernal stacking.
 
 **GNP** *(graphene nanoplatelet)* *n.* A thicker stack sold as “graphene.” *See also* FLG; monolayer; GR2M.
 
@@ -167,6 +171,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 **PureGRAPH** *n.* First Graphene nanoplatelet mark. *See also* G+; GrapheneBlack; Peltyr. *Here* [[topics/manufacturing/first-graphene-henderson]].
 
 ## R
+
+**remote moiré modulation** *n.* Electrostatic transmission of a moiré pattern’s influence to a spatially separated graphene layer without direct electron hopping. Kim et al., ACS Nano (online 1 Oct 2026). *See also* moiré; hBN.
 
 **rGO** *n.* Reduced graphene oxide. *See also* GO.
 
