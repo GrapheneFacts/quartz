@@ -38,6 +38,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **clasping folds** *n.* Interlayer mechanical buckle or fold-lock structure in multilayer graphene oxide films. Wang, Liao, Gao et al., Nature 2026: surface-folded multilayer GO flakes assemble into clasping films with reported 2.9 GPa strength, 84.5 MJ m⁻³ toughness, 5% elastic strain. Breaks flat-stack strength-toughness trade-off. *See also* GO; graphene. *Here* [[posts/clasping-folds-graphene-films-2026]].
 
+**Curved Graphene** *n.* Skeleton Technologies proprietary carbon material described as crumpled or curved sheets rather than flat monolayers. Used as the active material in their supercapacitors; claimed higher energy density versus conventional activated carbon via increased surface area and tunable pore structure. Produced at Skeleton Materials, Bitterfeld-Wolfen, Germany. Not an ISO term for monolayer graphene. *See also* GNP; supercapacitor.
+
 **CVD** *n.* Chemical vapor deposition. Commonly carbon on copper, then transfer. *See also* R2R CVD; SiC epitaxy; LPE. *Here* [[topics/manufacturing/graphenea]].
 
 **CSD** *(cortical spreading depolarization)* *n.* Slow, near-complete depolarization wave across cortex. Flaherty et al., *Brain* 2026, used graphene transistor arrays to tie waveform shape to perfusion in mouse stroke models. Not a treatment. *See also* gSGFET; INBRAIN. *Here* [[posts/gsgfet-stroke-csd-2026]].
