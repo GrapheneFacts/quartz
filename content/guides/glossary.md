@@ -130,6 +130,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **magic angle** *n.* Twist (~1.1° in bilayer) where flat bands appear (Cao 2018). *See also* MATBG; twistronics; moiré. *Here* [[timeline/2018]].
 
+**Manchester graphene** *n.* Concretene’s planned circular programme using local wastewater biogas (United Utilities) as feedstock to produce carbon-negative graphene at multi-tonne scale in Manchester for concrete admixtures. Company language, Oct 2026 Series A. Not yet at that scale. *See also* LOOP; GNP.
+
 **masterbatch** *n.* Graphene pre-dispersed in a carrier so a plant need not handle dry powder. *See also* GNP.
 
 **MATBG** *n.* Magic-angle twisted bilayer graphene. *See also* MATTG; TDBG; magic angle.
