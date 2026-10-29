@@ -120,6 +120,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **La Quinta Columna** *n.* Spanish site that commissioned the 2021 Campra courier-vial note. Distribution node for the GO-in-vaccine plot, not a metrology lab. *See also* Campra report; Fringe. *Here* [[topics/fringe/2026-09-16-go-vaccine-5g-claims]].
 
+**Landau-Zener-Majorana transition** *(LZM)* *n.* Non-adiabatic tunneling of electrons across an energy gap under a rapidly changing electric field. Eggers et al., Nature 2026: subcycle videography in graphene shows tunneling probabilities up to ~100 %. *See also* Dirac point; graphene. *Here* [[posts/quantum-orbital-flexoelectricity-graphene-2026]].
+
 **LOOP** *n.* Levidian microwave-plasma unit that splits methane into solid carbon (sold as graphene) and a hydrogen-rich gas. Catalyst-free and water-free on the company description. Sizes named LOOP 20, 60, 100. Not a plasma torch. *See also* CVD; Sharjah Graphene Park.
 
 **LPE** *n.* Liquid-phase exfoliation. *See also* CVD; mechanical cleavage.
@@ -173,6 +175,10 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 **prepreg** *n.* Fibre already infused with partially cured resin, then laid and cured. Graphene loading is into the resin, not a new fibre. *See also* PureGRAPH; GNP.
 
 **PureGRAPH** *n.* First Graphene nanoplatelet mark. *See also* G+; GrapheneBlack; Peltyr. *Here* [[topics/manufacturing/first-graphene-henderson]].
+
+## Q
+
+**quantum orbital flexoelectricity** *n.* Polarization from sub-nanometer curvature in graphene nanowrinkles that asymmetrically perturbs π orbitals. Iyengar et al., Advanced Materials 2026: P_th ≈ 4 C m⁻², P_exp ≈ 1 C m⁻² (5–7 orders above mesoscale flexoelectricity). Apex sharpness dominates over height. *See also* graphene. *Here* [[posts/quantum-orbital-flexoelectricity-graphene-2026]].
 
 ## R
 
