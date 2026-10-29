@@ -25,10 +25,11 @@ Parent: [[guides/index|Guides]]. Terms: [[notice|Notice]]. Sources: [[citations|
 - 15 Oct 2026 names: [[guides/glossary]] (clasping folds, remote moiré modulation, gate-induced layer sliding). Note: [[posts/clasping-folds-graphene-films-2026]].
 - 21 Oct 2026 names, definitions only: [[guides/glossary]] (Curved Graphene). No new public note.
 - 28 Oct 2026 names, definitions only: [[guides/glossary]] (Manchester graphene). No new public note.
+- 29 Oct 2026 names: [[guides/glossary]] (quantum orbital flexoelectricity, Landau-Zener-Majorana transition). Note: [[posts/quantum-orbital-flexoelectricity-graphene-2026]].
 
 ## Posts and weeklies
 
-- [[posts/holey-graphene-molecular-stencil]] · [[posts/nspp-plasma-water-go]] · [[posts/gsgfet-stroke-csd-2026]] · [[posts/clasping-folds-graphene-films-2026]] · [[weekly/2026-W38]]
+- [[posts/holey-graphene-molecular-stencil]] · [[posts/nspp-plasma-water-go]] · [[posts/gsgfet-stroke-csd-2026]] · [[posts/clasping-folds-graphene-films-2026]] · [[posts/quantum-orbital-flexoelectricity-graphene-2026]] · [[weekly/2026-W38]]
 
 ## Timeline
 
