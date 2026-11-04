@@ -26,6 +26,7 @@ Parent: [[guides/index|Guides]]. Terms: [[notice|Notice]]. Sources: [[citations|
 - 21 Oct 2026 names, definitions only: [[guides/glossary]] (Curved Graphene). No new public note.
 - 28 Oct 2026 names, definitions only: [[guides/glossary]] (Manchester graphene). No new public note.
 - 29 Oct 2026 names: [[guides/glossary]] (quantum orbital flexoelectricity, Landau-Zener-Majorana transition). Note: [[posts/quantum-orbital-flexoelectricity-graphene-2026]].
+- 4 Nov 2026 names, definitions only: [[guides/glossary]] (AirMembrane, EUV pellicle (graphene), HEG Advanced Materials, VN Graphene Global). No new public note.
 
 ## Posts and weeklies
 
