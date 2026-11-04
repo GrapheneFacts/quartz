@@ -16,6 +16,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **AIM** *n.* London Stock Exchange junior market. *See also* ASX; NEEQ; TSX. *Here* [[topics/finance/listings]].
 
+**AirMembrane** *n.* Japanese AIST spin-out (Tsukuba, founded 2017) developing multilayer graphene EUV pellicles for semiconductor lithography. Oct 2026: raised ¥850 million (cumul. ~¥1B) toward pilot 2027 and volume production 2028. Claims continuous plasma CVD and automated transfer. *See also* CVD; graphene. *Here* [[topics/finance/listings]].
+
 **anomalous Hall crystal** *n.* Electronic crystal with a topological Hall response; 2025 twisted-stack report. *See also* moiré. *Here* [[timeline/2025]].
 
 **ASX** *n.* Australian Securities Exchange. *See also* AIM. *Here* [[topics/finance/listings]].
@@ -55,6 +57,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 **entitlement** *n.* A pro-rata share issue. *See also* SPP. *Here* [[topics/finance/raises-2015-2025]].
 
 **evidence label** *n.* Confidence tag on a claim: Well-supported, Preliminary, Unverified, Fringe. Folder is for browsing; the label is for confidence. *See also* Fringe; Unverified. *Here* [[guides/evidence-labels]].
+
+**EUV pellicle (graphene)** *n.* Free-standing multilayer graphene membrane protecting photomasks in extreme ultraviolet lithography. Requires high 13.5 nm transmittance, heat dissipation, and durability in hydrogen radical environments. AirMembrane targets volume production 2028. *See also* AirMembrane; CVD.
 
 ## F
 
@@ -97,6 +101,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 ## H
 
 **hBN** *n.* Hexagonal boron nitride. Used to encapsulate graphene (Dean 2010) and as a tunnel barrier (Britnell 2012). *See also* TMDC. *Here* [[timeline/2010]].
+
+**HEG Advanced Materials** *n.* Indian company (NSE:HEGAM) in advanced carbons after demerger. Nov 2026 board approved 500 MTPA graphene project at ₹500 crore capex (COD target Sep 2028), alongside anode expansions. *See also* GNP; GO. *Here* [[topics/finance/listings]].
 
 **holey graphene** *n.* A sheet with engineered holes. *See also* graphene. *Here* [[posts/holey-graphene-molecular-stencil]].
 
@@ -217,6 +223,10 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 ## U
 
 **Unverified** *adj.* Evidence label: no solid primary. Not automatically Fringe. *See also* Fringe; Preliminary. *Here* [[logs/unsourced]].
+
+## V
+
+**VN Graphene Global** *n.* Vietnamese company that inaugurated a GO/rGO production plant in Gia Lai (Nhon Hoi A) late Oct/early Nov 2026. Stated investment ~US$7.8 million, designed capacity 3,600 kg/year, >99% purity. *See also* GO; rGO. *Here* [[topics/finance/listings]].
 
 ## W
 
