@@ -42,6 +42,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **clasping folds** *n.* Interlayer mechanical buckle or fold-lock structure in multilayer graphene oxide films. Wang, Liao, Gao et al., Nature 2026: surface-folded multilayer GO flakes assemble into clasping films with reported 2.9 GPa strength, 84.5 MJ m⁻³ toughness, 5% elastic strain. Breaks flat-stack strength-toughness trade-off. *See also* GO; graphene. *Here* [[posts/clasping-folds-graphene-films-2026]].
 
+**Crumpled Graphene Nanoplatelets** *(CGNPs)* *n.* Solid-carbon product of ROTOBOOST’s molten-catalyst thermal-catalytic decomposition of methane. Company describes crumpled three-dimensional sheets with meso- and macropores, marketed for batteries, polymers, tires, coatings and as a coal-carbon replacement. Not an ISO term. *See also* GNP; ROTOBOOST.
+
 **Curved Graphene** *n.* Skeleton Technologies proprietary carbon material described as crumpled or curved sheets rather than flat monolayers. Used as the active material in their supercapacitors; claimed higher energy density versus conventional activated carbon via increased surface area and tunable pore structure. Produced at Skeleton Materials, Bitterfeld-Wolfen, Germany. Not an ISO term for monolayer graphene. *See also* GNP; supercapacitor.
 
 **CVD** *n.* Chemical vapor deposition. Commonly carbon on copper, then transfer. *See also* R2R CVD; SiC epitaxy; LPE. *Here* [[topics/manufacturing/graphenea]].
@@ -93,6 +95,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 **graphene** *n.* One-atom honeycomb carbon. Name mid-1980s; isolation-and-gate 2004. *See also* GR2M; graphite; monolayer. *Here* [[timeline/2004]].
 
 **graphene hydroxide** *n.* Not an ISO term. Label used in 2021 videos after the GO-in-vial claim. Not on authorized COVID-19 vaccine ingredient lists. *See also* GO; Campra report; Fringe. *Here* [[topics/fringe/2026-09-16-go-vaccine-5g-claims]].
+
+**graphene mesosponge** *(GMS)* *n.* Three-dimensional mesoporous graphene material (originally Tohoku ~2016; commercialized by 3DC). Mesopores retain electrolyte while the graphene framework conducts electrons. 2026 Yokohama/Yonsei/3DC Advanced Energy Materials paper: 1 wt% GMS outperformed SWCNTs as conductive additive in high-loading dense Li-ion cathodes. *See also* GNP; graphene.
 
 **gSGFET** *n.* Graphene solution-gated field-effect transistor. Electrolyte is the gate; channel current reports local potential, including infraslow. CVD graphene on polyimide in the IMB-CNM / ICN2 stack. Not GO. *See also* CVD; INBRAIN; CSD. *Here* [[posts/gsgfet-stroke-csd-2026]].
 
@@ -197,6 +201,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 **rGO** *n.* Reduced graphene oxide. *See also* GO.
 
 **rhombohedral hexalayer graphene** *n.* Six graphene layers in rhombohedral (ABCABC…) stacking. Deng et al., Nature Physics 21 Oct 2026: in the semimetallic (overlapping band) regime, hosts correlated insulators, dual-carrier superconducting-like pockets, and multiferroic orbital magnetic orders including ferroelectric orbital magnetism. *See also* graphene.
+
+**ROTOBOOST** *n.* Finnish energy-transition company (Helsinki) using molten-catalyst thermal-catalytic decomposition to split methane into low-carbon hydrogen and solid carbon sold as crumpled graphene nanoplatelets (CGNPs). Nov 2026: strategic investment from Aramco Ventures. *See also* CGNPs; GNP; LOOP.
 
 **REACH** *n.* EU chemical-registration regime.
 
