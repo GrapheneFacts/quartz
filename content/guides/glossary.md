@@ -98,6 +98,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **graphene mesosponge** *(GMS)* *n.* Three-dimensional mesoporous graphene material (originally Tohoku ~2016; commercialized by 3DC). Mesopores retain electrolyte while the graphene framework conducts electrons. 2026 Yokohama/Yonsei/3DC Advanced Energy Materials paper: 1 wt% GMS outperformed SWCNTs as conductive additive in high-loading dense Li-ion cathodes. *See also* GNP; graphene.
 
+**GraphEnergyTech** *n.* EPFL and University of Cambridge spin-out (Lausanne/Cambridge, founded 2022) developing highly conductive carbon- and graphene-based inks and pastes as metal-free electrodes for solar cells (including perovskite), fuel cells, heating and printed electronics. Nov 2026: first close of seed round targeting up to £3 million, with continued Aramco Ventures backing (amount of close undisclosed). Builds on Grätzel perovskite and Cambridge Graphene Centre work. *See also* graphene; GNP. *Here* [[topics/finance/listings]].
+
 **gSGFET** *n.* Graphene solution-gated field-effect transistor. Electrolyte is the gate; channel current reports local potential, including infraslow. CVD graphene on polyimide in the IMB-CNM / ICN2 stack. Not GO. *See also* CVD; INBRAIN; CSD. *Here* [[posts/gsgfet-stroke-csd-2026]].
 
 **GrapheneBlack** *n.* NanoXplore powder mark. *See also* PureGRAPH; G+. *Here* [[topics/manufacturing/nanoxplore-saint-laurent]].

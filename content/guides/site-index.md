@@ -29,6 +29,7 @@ Parent: [[guides/index|Guides]]. Terms: [[notice|Notice]]. Sources: [[citations|
 - 4 Nov 2026 names, definitions only: [[guides/glossary]] (AirMembrane, EUV pellicle (graphene), HEG Advanced Materials, VN Graphene Global). No new public note.
 - 5 Nov 2026 names, definitions only: [[guides/glossary]] (ballistic transverse thermoelectric effect, ferroelectric orbital magnetism, rhombohedral hexalayer graphene). No new public note.
 - 8 Nov 2026 names, definitions only: [[guides/glossary]] (ROTOBOOST, Crumpled Graphene Nanoplatelets, graphene mesosponge). No new public note.
+- 11 Nov 2026 names, definitions only: [[guides/glossary]] (GraphEnergyTech). No new public note.
 
 ## Posts and weeklies
 
