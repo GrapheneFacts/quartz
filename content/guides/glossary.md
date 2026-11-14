@@ -84,6 +84,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **gate-induced layer sliding** *n.* Voltage-driven sliding of graphene layers that switches stacking (Bernal-dominant to rhombohedral-Bernal mixed) and nonvolatily toggles magnetism. Brandon, Yasuda et al., Nature Nanotechnology 14 Oct 2026. Related to slidetronics. *See also* rhombohedral stacking; Bernal stacking.
 
+**giant elastoresistance** *n.* Large strain-induced change in electrical resistance. Ma et al., Science 12 Nov 2026: in magic-angle twisted bilayer graphene, controlled strain produces resistance swings more than 100 times those of ordinary metals; gauge factor exceeds conventional metals by more than two orders of magnitude. Effect amplified at low temperature. *See also* MATBG; magic angle. *Here* [[posts/matbg-strain-elastoresistance-2026]].
+
 **GNP** *(graphene nanoplatelet)* *n.* A thicker stack sold as “graphene.” *See also* FLG; monolayer; GR2M.
 
 **GO** *(graphene oxide)* *n.* Oxidized sheets from graphite oxide. Not a 2004 peeled flake. *See also* rGO; graphite oxide; Brodie. *Here* [[topics/health/form-route]].
@@ -93,6 +95,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 **GR2M** *n.* Graphene-related 2D material; ISO/TS 80004-13:2024 umbrella term. *See also* graphene; GNP; GO. *Here* [[reference/iso-vocabulary]].
 
 **graphene** *n.* One-atom honeycomb carbon. Name mid-1980s; isolation-and-gate 2004. *See also* GR2M; graphite; monolayer. *Here* [[timeline/2004]].
+
+**Graphene Innovations Manchester** *(GIM)* *n.* University of Manchester spin-out (founded by Vivek Koncherry) commercialising graphene-enhanced materials for construction, energy and aerospace. Opened Trafford Park advanced materials factory 10 Nov 2026; demonstrated products include GIM Concrete, composite lamp posts and graphene fibre. Training hub for international partners including Saudi graphene-carbon fibre and UAE hub. *See also* GNP; Manchester graphene. *Here* [[posts/matbg-strain-elastoresistance-2026]].
 
 **graphene hydroxide** *n.* Not an ISO term. Label used in 2021 videos after the GO-in-vial claim. Not on authorized COVID-19 vaccine ingredient lists. *See also* GO; Campra report; Fringe. *Here* [[topics/fringe/2026-09-16-go-vaccine-5g-claims]].
 

@@ -30,10 +30,11 @@ Parent: [[guides/index|Guides]]. Terms: [[notice|Notice]]. Sources: [[citations|
 - 5 Nov 2026 names, definitions only: [[guides/glossary]] (ballistic transverse thermoelectric effect, ferroelectric orbital magnetism, rhombohedral hexalayer graphene). No new public note.
 - 8 Nov 2026 names, definitions only: [[guides/glossary]] (ROTOBOOST, Crumpled Graphene Nanoplatelets, graphene mesosponge). No new public note.
 - 11 Nov 2026 names, definitions only: [[guides/glossary]] (GraphEnergyTech). No new public note.
+- 14 Nov 2026 names: [[guides/glossary]] (giant elastoresistance, Graphene Innovations Manchester). Note: [[posts/matbg-strain-elastoresistance-2026]].
 
 ## Posts and weeklies
 
-- [[posts/holey-graphene-molecular-stencil]] · [[posts/nspp-plasma-water-go]] · [[posts/gsgfet-stroke-csd-2026]] · [[posts/clasping-folds-graphene-films-2026]] · [[posts/quantum-orbital-flexoelectricity-graphene-2026]] · [[weekly/2026-W38]]
+- [[posts/holey-graphene-molecular-stencil]] · [[posts/nspp-plasma-water-go]] · [[posts/gsgfet-stroke-csd-2026]] · [[posts/clasping-folds-graphene-films-2026]] · [[posts/quantum-orbital-flexoelectricity-graphene-2026]] · [[posts/matbg-strain-elastoresistance-2026]] · [[weekly/2026-W38]]
 
 ## Timeline
 
