@@ -31,6 +31,7 @@ Parent: [[guides/index|Guides]]. Terms: [[notice|Notice]]. Sources: [[citations|
 - 8 Nov 2026 names, definitions only: [[guides/glossary]] (ROTOBOOST, Crumpled Graphene Nanoplatelets, graphene mesosponge). No new public note.
 - 11 Nov 2026 names, definitions only: [[guides/glossary]] (GraphEnergyTech). No new public note.
 - 14 Nov 2026 names: [[guides/glossary]] (giant elastoresistance, Graphene Innovations Manchester). Note: [[posts/matbg-strain-elastoresistance-2026]].
+- 18 Nov 2026 names, definitions only: [[guides/glossary]] (Hyperion Reactor). No new public note.
 
 ## Posts and weeklies
 
