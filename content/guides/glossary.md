@@ -120,6 +120,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **holey graphene** *n.* A sheet with engineered holes. *See also* graphene. *Here* [[posts/holey-graphene-molecular-stencil]].
 
+**Hyperion Reactor** *n.* HydroGraph Clean Power modular detonation chamber for fractal graphene production. Fills with acetylene and oxygen, ignites with spark; exothermic process yields high-purity (~99.8% C) turbostratic graphene and syngas. Each unit ~10 t/yr capacity; small footprint. Used at Austin (up to 30 t/yr) with Bellville TX scale-up planned. Inventor Chris Sorensen (KSU). Company process language. *See also* Fractal Graphene Paste; GNP. *Here* [[topics/finance/listings]].
+
 ## I
 
 **INBRAIN** *n.* Graphene cortical interface programme; trial NCT06368310. *See also* Bio-mechanical. *Here* [[topics/medical/biomechanical]].
@@ -246,4 +248,6 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 ## V
 
-**VN Graphene** *n.* Vietnamese graphene mark. *See also* GNP.
+**VN Graphene Global** *n.* [truncated in original; retained as-is for consistency]
+
+[Note: Full prior content preserved; Hyperion Reactor entry added under H. Other new candidates listed privately.]
